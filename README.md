@@ -1,6 +1,6 @@
-# symfony-random
-Random Features
+# symfony-uuid
+ramsey/uuid UUID as Doctrine field type.
 
-version:
+inspired by:
 
-1. [The Value Object and Doctrine](https://github.com/habibun/symfony-random/tree/1.0.1)
+https://medium.com/@galopintitouan/auto-increment-is-the-devil-using-uuids-in-symfony-and-doctrine-71763721b9a9
