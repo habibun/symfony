@@ -24,10 +24,10 @@
         "symfony/validator": "5.1.*",
         "symfony/yaml": "5.1.*",
         "twig/extra-bundle": "^2.12|^3.0",
-        "twig/twig": "^2.12|^3.0"
+        "twig/twig": "^2.12|^3.0",
+        "doctrine/doctrine-fixtures-bundle": "^3.4"
     },
     "require-dev": {
-        "doctrine/doctrine-fixtures-bundle": "^3.4",
         "symfony/browser-kit": "^5.1",
         "symfony/css-selector": "^5.1",
         "symfony/debug-bundle": "5.1.*",
