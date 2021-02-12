@@ -22,3 +22,9 @@ heroku logs --tail
 # check how many dynos are running
 heroku ps
 
+# interactive PHP shell
+heroku run "php -a"
+
+# opens up a shell
+heroku run bash
+
