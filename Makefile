@@ -59,7 +59,6 @@ db-migrate:			## Execute doctrine:migrations:migrate
 
 db-fixtures: 		## Execute doctrine:fixtures:load
 					$(CONSOLE) doctrine:fixtures:load --no-interaction --purge-with-truncate
-					$(CONSOLE) app:list-users
 
 db-fixtures-test: 	## Execute doctrine:fixtures:load fo test env
 					$(CONSOLE) doctrine:database:create -vvv --env=test
