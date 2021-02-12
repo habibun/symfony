@@ -7,13 +7,13 @@ use Doctrine\Bundle\FixturesBundle\Fixture;
 use Doctrine\Persistence\ObjectManager;
 
 /**
- * Class AppFixtures
+ * Class AppFixtures.
  */
 class AppFixtures extends Fixture
 {
     public function load(ObjectManager $manager)
     {
-        for ($i = 0; $i < 20; $i++) {
+        for ($i = 0; $i < 20; ++$i) {
             $product = new Product();
             $product->setName('product '.$i);
             $product->setPrice(mt_rand(10, 100));
