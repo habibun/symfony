@@ -42,4 +42,5 @@ heroku config:set APP_SECRET=$(php -r 'echo bin2hex(random_bytes(16));')
 heroku config:set DATABASE_URL="postgres://zrznwhbilurmoo:89e697150c798d4b7faa8d08e95a775bb89be398881b2c818744bf6bab278c07@ec2-35-174-118-71.compute-1.amazonaws.com:5432/dbpiisd34v6bcb"
 
 
-
+# connect to the database
+heroku pg:psql
