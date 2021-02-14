@@ -9,4 +9,5 @@ Releases:
 
 1. [Heroku: Cloud Application Platform](https://github.com/habibun/symfony-random/tree/3.0.0)
 
+1. [User’s Locale](https://github.com/habibun/symfony-random/tree/4.0.0)
 
