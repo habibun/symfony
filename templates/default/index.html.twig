@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Product index{% endblock %}
+
+{% block body %}
+    {% set route = app.request.attributes.get('_route') %}
+    {% set route_params = app.request.attributes.get('_route_params') %}
+    {% set params = route_params|merge(app.request.query.all) %}
+
+    <strong>{{ message }}</strong>
+
+    {% for locale in locales %}
+        {% if locale != app.request.locale %}
+            <li>
+                <a href="{{ path(route, params|merge({ _locale: locale })) }}">
+                    <img src="{{ asset('img/flags/' ~ locale ~ '.jpg') }}" alt="{{ locale }}">
+                </a>
+            </li>
+        {% endif %}
+    {% endfor %}
+{% endblock %}
