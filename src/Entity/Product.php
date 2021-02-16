@@ -6,8 +6,8 @@ use App\Repository\ProductRepository;
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\HttpFoundation\File\File;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
-use Vich\UploaderBundle\Mapping\Annotation as Vich;
 use Vich\UploaderBundle\Entity\File as EmbeddedFile;
+use Vich\UploaderBundle\Mapping\Annotation as Vich;
 
 /**
  * @ORM\Entity(repositoryClass=ProductRepository::class)
@@ -88,24 +88,17 @@ class Product
         $this->image = new EmbeddedFile();
     }
 
-    /**
-     * @return int|null
-     */
     public function getId(): ?int
     {
         return $this->id;
     }
 
-    /**
-     * @return string|null
-     */
     public function getName(): ?string
     {
         return $this->name;
     }
 
     /**
-     * @param string $name
      * @return $this
      */
     public function setName(string $name): self
@@ -115,16 +108,12 @@ class Product
         return $this;
     }
 
-    /**
-     * @return int|null
-     */
     public function getPrice(): ?int
     {
         return $this->price;
     }
 
     /**
-     * @param int $price
      * @return $this
      */
     public function setPrice(int $price): self
@@ -134,16 +123,12 @@ class Product
         return $this;
     }
 
-    /**
-     * @return string|null
-     */
     public function getDescription(): ?string
     {
         return $this->description;
     }
 
     /**
-     * @param string|null $description
      * @return $this
      */
     public function setDescription(?string $description): self
@@ -155,6 +140,7 @@ class Product
 
     /**
      * @param File|UploadedFile|null $imageFile
+     *
      * @throws \Exception
      */
     public function setImageFile(?File $imageFile = null): void
@@ -199,10 +185,6 @@ class Product
         return $this->image;
     }
 
-    /**
-     * @param EmbeddedFile $image
-     * @return Product
-     */
     public function setImage(EmbeddedFile $image): Product
     {
         $this->image = $image;
