@@ -12,4 +12,6 @@ Releases:
 1. [User’s Locale](https://github.com/habibun/symfony-random/tree/4.0.0)
    
 1. [VichUploaderBundle](https://github.com/habibun/symfony-random/tree/5.0.0)
+   
+1. [Voters to Check User Permissions](https://github.com/habibun/symfony-random/tree/6.0.0)
 
