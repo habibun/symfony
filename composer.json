@@ -18,6 +18,7 @@
         "symfony/framework-bundle": "5.1.*",
         "symfony/monolog-bundle": "^3.6",
         "symfony/proxy-manager-bridge": "5.1.*",
+        "symfony/security-bundle": "5.1.*",
         "symfony/security-csrf": "5.1.*",
         "symfony/stopwatch": "5.1.*",
         "symfony/twig-bundle": "5.1.*",
