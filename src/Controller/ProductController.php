@@ -59,6 +59,8 @@ class ProductController extends AbstractController
      */
     public function show(Product $product): Response
     {
+        $this->denyAccessUnlessGranted('view', $product);
+
         return $this->render('product/show.html.twig', [
             'product' => $product,
         ]);

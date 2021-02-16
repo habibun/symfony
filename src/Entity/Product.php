@@ -69,6 +69,29 @@ class Product
     private $updatedBy;
 
     /**
+     * @var bool
+     *
+     * @ORM\Column(type="boolean")
+     */
+    private $private;
+
+    /**
+     * @var User
+     *
+     * @ORM\ManyToOne(targetEntity="App\Entity\User", inversedBy="products")
+     */
+    private $owner;
+
+    /**
+     * Product constructor.
+     */
+    public function __construct()
+    {
+        $this->private = false;
+    }
+
+
+    /**
      * @return int|null
      */
     public function getId(): ?int
@@ -85,7 +108,6 @@ class Product
     }
 
     /**
-     * @param string $name
      * @return $this
      */
     public function setName(string $name): self
@@ -104,7 +126,6 @@ class Product
     }
 
     /**
-     * @param int $price
      * @return $this
      */
     public function setPrice(int $price): self
@@ -123,7 +144,6 @@ class Product
     }
 
     /**
-     * @param string|null $description
      * @return $this
      */
     public function setDescription(?string $description): self
@@ -143,7 +163,7 @@ class Product
 
     /**
      * @param \DateTime $createdAt
-     * @return Product
+     * @return $this
      */
     public function setCreatedAt(\DateTime $createdAt): Product
     {
@@ -162,7 +182,7 @@ class Product
 
     /**
      * @param User $createdBy
-     * @return Product
+     * @return $this
      */
     public function setCreatedBy(User $createdBy): Product
     {
@@ -181,7 +201,7 @@ class Product
 
     /**
      * @param \DateTime $updatedAt
-     * @return Product
+     * @return $this
      */
     public function setUpdatedAt(\DateTime $updatedAt): Product
     {
@@ -200,7 +220,7 @@ class Product
 
     /**
      * @param User $updatedBy
-     * @return Product
+     * @return $this
      */
     public function setUpdatedBy(User $updatedBy): Product
     {
@@ -224,5 +244,44 @@ class Product
     public function setUpdatedAtValue()
     {
         $this->updatedAt = new \DateTime();
+    }
+
+    /**
+     * @return bool
+     */
+    public function isPrivate(): bool
+    {
+        return $this->private;
+    }
+
+    /**
+     * @param bool $private
+     * @return Product
+     */
+    public function setPrivate(bool $private): Product
+    {
+        $this->private = $private;
+
+        return $this;
+    }
+
+    /**
+     * @return User
+     */
+    public function getOwner()
+    {
+        return $this->owner;
+    }
+
+    /**
+     * @param User $owner
+     *
+     * @return Product
+     */
+    public function setOwner($owner)
+    {
+        $this->owner = $owner;
+
+        return $this;
     }
 }
