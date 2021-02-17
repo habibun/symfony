@@ -19,3 +19,5 @@ Releases:
 
 1. [Using the form_login Authentication Provider](https://github.com/habibun/symfony-random/tree/8.0.0) [[REF]](https://symfony.com/doc/current/security/form_login.html)
 
+1. [Guard authenticator Login Form](https://github.com/habibun/symfony-random/tree/9.0.0) [[REF]](https://symfony.com/doc/current/security/form_login_setup.html)
+
