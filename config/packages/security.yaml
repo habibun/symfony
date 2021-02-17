@@ -10,10 +10,20 @@ security:
             entity:
                 class: App\Entity\User
                 property: email
+        app_api_user_provider:
+            entity:
+                class: App\Entity\User
+                property: apiToken
     firewalls:
         dev:
             pattern: ^/(_(profiler|wdt)|css|images|js)/
             security: false
+        api_token:
+            anonymous: true
+            provider: app_api_user_provider
+            guard:
+                authenticators:
+                    - App\Security\TokenAuthenticator
         main:
             anonymous: true
             lazy: true
