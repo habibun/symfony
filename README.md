@@ -14,4 +14,6 @@ Releases:
 1. [VichUploaderBundle](https://github.com/habibun/symfony-random/tree/5.0.0)
    
 1. [Voters to Check User Permissions](https://github.com/habibun/symfony-random/tree/6.0.0)
+   
+1. [Custom Authentication System with Guard (API Token)](https://github.com/habibun/symfony-random/tree/7.0.0)
 
