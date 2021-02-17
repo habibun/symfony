@@ -17,3 +17,5 @@ Releases:
    
 1. [Custom Authentication System with Guard (API Token)](https://github.com/habibun/symfony-random/tree/7.0.0)
 
+1. [Using the form_login Authentication Provider](https://github.com/habibun/symfony-random/tree/8.0.0) [[REF]](https://symfony.com/doc/current/security/form_login.html)
+
