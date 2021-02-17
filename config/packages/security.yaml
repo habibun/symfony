@@ -14,6 +14,17 @@ security:
         dev:
             pattern: ^/(_(profiler|wdt)|css|images|js)/
             security: false
+        login_form:
+            anonymous: true
+            form_login:
+                login_path: login
+                check_path: login
+                csrf_token_generator: security.csrf.token_manager
+                default_target_path: default
+                always_use_default_target_path: true
+                use_referer: true
+                failure_path: login
+
         main:
             anonymous: true
             lazy: true
