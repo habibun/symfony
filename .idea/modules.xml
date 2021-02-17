@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/symfony-random.iml" filepath="$PROJECT_DIR$/.idea/symfony-random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sf.iml" filepath="$PROJECT_DIR$/.idea/sf.iml" />
     </modules>
   </component>
 </project>
