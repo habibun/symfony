@@ -15,7 +15,6 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-
 ###< phpstorm ###
 
 ###> symfony/phpunit-bridge ###
