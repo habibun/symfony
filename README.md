@@ -1,5 +1,5 @@
 # symfony-random
-Random Features
+:running: Random Features
 
 Releases:
 
