@@ -21,3 +21,4 @@ Releases:
 
 1. [Guard authenticator Login Form](https://github.com/habibun/symfony-random/tree/9.0.0) [[REF]](https://symfony.com/doc/current/security/form_login_setup.html)
 
+1. [Embed a Collection of Forms](https://github.com/habibun/symfony-random/tree/10.0.0) [[REF]](https://symfony.com/doc/current/form/form_collections.html)
