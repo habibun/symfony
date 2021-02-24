@@ -22,3 +22,6 @@ Releases:
 1. [Guard authenticator Login Form](https://github.com/habibun/symfony/tree/9.0.0) [[REF]](https://symfony.com/doc/current/security/form_login_setup.html)
 
 1. [Embed a Collection of Forms](https://github.com/habibun/symfony/tree/10.0.0) [[REF]](https://symfony.com/doc/current/form/form_collections.html)
+
+1. [Doctrine Inheritance Mapping](https://github.com/habibun/symfony/tree/11.0.0) [[REF]](https://www.doctrine-project.org/projects/doctrine-orm/en/2.8/reference/inheritance-mapping.html#inheritance-mapping)
+
