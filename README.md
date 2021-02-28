@@ -24,4 +24,6 @@ Releases:
 1. [Embed a Collection of Forms](https://github.com/habibun/symfony/tree/10.0.0) [[REF]](https://symfony.com/doc/current/form/form_collections.html)
 
 1. [Doctrine Inheritance Mapping](https://github.com/habibun/symfony/tree/11.0.0) [[REF]](https://www.doctrine-project.org/projects/doctrine-orm/en/2.8/reference/inheritance-mapping.html#inheritance-mapping)
+   
+1. [SOLID principles](https://github.com/habibun/symfony/tree/12.0.0) [[REF]](https://medium.com/analytics-vidhya/dependency-injection-and-solid-principles-with-symfony-the-geocoding-example-f18ad08ed20b)
 
