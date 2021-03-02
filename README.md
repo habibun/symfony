@@ -28,4 +28,6 @@ Releases:
 1. [SOLID principles](https://github.com/habibun/symfony/tree/12.0.0) [[REF]](https://medium.com/analytics-vidhya/dependency-injection-and-solid-principles-with-symfony-the-geocoding-example-f18ad08ed20b)
    
 1. [Layered Architecture – Skeleton](https://github.com/habibun/symfony/tree/13.0.0) [[REF]](https://www.thinktocode.com/2018/07/12/layered-architecture-skeleton-example)
+   
+1. [FriendsOfSymfony/FOSOAuthServerBundle](https://github.com/habibun/symfony/tree/14.0.0) [[REF]](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle)
 
