@@ -30,4 +30,6 @@ Releases:
 1. [Layered Architecture – Skeleton](https://github.com/habibun/symfony/tree/13.0.0) [[REF]](https://www.thinktocode.com/2018/07/12/layered-architecture-skeleton-example)
    
 1. [FriendsOfSymfony/FOSOAuthServerBundle](https://github.com/habibun/symfony/tree/14.0.0) [[REF]](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle)
+   
+1. [HWIOAuthBundle](https://github.com/habibun/symfony/tree/15.0.0) [[REF]](https://github.com/hwi/HWIOAuthBundle)
 
