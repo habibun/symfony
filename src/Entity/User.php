@@ -2,116 +2,82 @@
 
 namespace App\Entity;
 
-use App\Repository\UserRepository;
+use FOS\UserBundle\Model\User as BaseUser;
 use Doctrine\ORM\Mapping as ORM;
-use Symfony\Component\Security\Core\User\UserInterface;
 
 /**
- * @ORM\Entity(repositoryClass=UserRepository::class)
+ * @ORM\Entity
+ * @ORM\Table(name="fos_user")
  */
-class User implements UserInterface
+class User extends BaseUser
 {
     /**
      * @ORM\Id
-     * @ORM\GeneratedValue
      * @ORM\Column(type="integer")
+     * @ORM\GeneratedValue(strategy="AUTO")
      */
-    private $id;
+    protected $id;
 
     /**
-     * @ORM\Column(type="string", length=180, unique=true)
+     * @var int
+     * @ORM\Column(name="github_id", type="string", length=255, nullable=true)
      */
-    private $email;
+    private $githubId;
 
     /**
-     * @ORM\Column(type="json")
+     * @var string
+     * @ORM\Column(name="github_access_token", type="string", length=255, nullable=true)
      */
-    private $roles = [];
+    private $githubAccessToken;
+
+    public function __construct()
+    {
+        parent::__construct();
+    }
 
     /**
-     * @var string The hashed password
-     * @ORM\Column(type="string")
+     * @return mixed
      */
-    private $password;
-
-    public function getId(): ?int
+    public function getId()
     {
         return $this->id;
     }
 
-    public function getEmail(): ?string
+    /**
+     * @return int
+     */
+    public function getGithubId()
     {
-        return $this->email;
-    }
-
-    public function setEmail(string $email): self
-    {
-        $this->email = $email;
-
-        return $this;
+        return $this->githubId;
     }
 
     /**
-     * A visual identifier that represents this user.
+     * @param int $githubId
      *
-     * @see UserInterface
+     * @return User
      */
-    public function getUsername(): string
+    public function setGithubId($githubId)
     {
-        return (string) $this->email;
-    }
-
-    /**
-     * @see UserInterface
-     */
-    public function getRoles(): array
-    {
-        $roles = $this->roles;
-        // guarantee every user at least has ROLE_USER
-        $roles[] = 'ROLE_USER';
-
-        return array_unique($roles);
-    }
-
-    public function setRoles(array $roles): self
-    {
-        $this->roles = $roles;
+        $this->githubId = $githubId;
 
         return $this;
     }
 
     /**
-     * @see UserInterface
+     * @return string
      */
-    public function getPassword(): string
+    public function getGithubAccessToken(): string
     {
-        return (string) $this->password;
+        return $this->githubAccessToken;
     }
 
-    public function setPassword(string $password): self
+    /**
+     * @param string $githubAccessToken
+     * @return User
+     */
+    public function setGithubAccessToken(string $githubAccessToken = null): User
     {
-        $this->password = $password;
-
+        $this->githubAccessToken = $githubAccessToken;
         return $this;
-    }
-
-    /**
-     * Returning a salt is only needed, if you are not using a modern
-     * hashing algorithm (e.g. bcrypt or sodium) in your security.yaml.
-     *
-     * @see UserInterface
-     */
-    public function getSalt(): ?string
-    {
-        return null;
-    }
-
-    /**
-     * @see UserInterface
-     */
-    public function eraseCredentials()
-    {
-        // If you store any temporary, sensitive data on the user, clear it here
-        // $this->plainPassword = null;
     }
 }

@@ -1,0 +1,17 @@
+hwi_oauth:
+    connect:
+        account_connector: oauth_fos.user_provider.service
+    fosub:
+        username_iterations: 30
+        properties:
+            github: github_id
+    firewall_names: [main]
+    resource_owners:
+        github:
+            type:                github
+            client_id:           '%env(GH_ID)%'
+            client_secret:       '%env(HG_SECRET)%'
+            scope:               "email"
+            options:
+#                display: popup
+                csrf: true
