@@ -32,4 +32,6 @@ Releases:
 1. [FriendsOfSymfony/FOSOAuthServerBundle](https://github.com/habibun/symfony/tree/14.0.0) [[REF]](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle)
    
 1. [HWIOAuthBundle](https://github.com/habibun/symfony/tree/15.0.0) [[REF]](https://github.com/hwi/HWIOAuthBundle)
+   
+1. [ramsey/uuid-doctrine](https://github.com/habibun/symfony/tree/16.0.0) [[REF]](https://github.com/ramsey/uuid-doctrine)
 
