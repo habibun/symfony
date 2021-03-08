@@ -4,6 +4,8 @@ namespace App\Entity;
 
 use App\Repository\ProductRepository;
 use Doctrine\ORM\Mapping as ORM;
+use Ramsey\Uuid\Uuid;
+use Ramsey\Uuid\UuidInterface;
 
 /**
  * @ORM\Entity(repositoryClass=ProductRepository::class)
@@ -13,13 +15,24 @@ use Doctrine\ORM\Mapping as ORM;
 class Product
 {
     /**
-     * @var int
+     * The unique auto incremented primary key.
+     *
+     * @var int|null
      *
      * @ORM\Id
+     * @ORM\Column(type="integer", options={"unsigned": true})
      * @ORM\GeneratedValue
-     * @ORM\Column(type="integer")
      */
-    private $id;
+    protected $id;
+
+    /**
+     * The internal primary identity key.
+     *
+     * @var UuidInterface
+     *
+     * @ORM\Column(type="uuid", unique=true)
+     */
+    protected $uuid;
 
     /**
      * @var string
@@ -69,11 +82,27 @@ class Product
     private $updatedBy;
 
     /**
+     * Product constructor.
+     */
+    public function __construct()
+    {
+        $this->uuid = Uuid::uuid4();;
+    }
+
+    /**
      * @return int|null
      */
     public function getId(): ?int
     {
         return $this->id;
+    }
+
+    /**
+     * @return UuidInterface
+     */
+    public function getUuid(): UuidInterface
+    {
+        return $this->uuid;
     }
 
     /**
