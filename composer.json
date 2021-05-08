@@ -10,6 +10,7 @@
         "doctrine/doctrine-migrations-bundle": "^3.0",
         "doctrine/orm": "^2.7",
         "sensio/framework-extra-bundle": "^6.0",
+        "symfony/cache": "5.2.*",
         "symfony/console": "5.2.*",
         "symfony/doctrine-bridge": "5.2.*",
         "symfony/dotenv": "5.2.*",

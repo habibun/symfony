@@ -4,9 +4,9 @@ namespace App\Repository;
 
 use App\Entity\User;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
-use Doctrine\Common\Persistence\ManagerRegistry;
 use Doctrine\ORM\OptimisticLockException;
 use Doctrine\ORM\ORMException;
+use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Component\Security\Core\Exception\UnsupportedUserException;
 use Symfony\Component\Security\Core\User\UserInterface;
 
@@ -25,8 +25,7 @@ class UserRepository extends ServiceEntityRepository
 
     /**
      * Used to upgrade (rehash) the user's password automatically over time.
-     * @param UserInterface $user
-     * @param string $newEncodedPassword
+     *
      * @throws ORMException
      * @throws OptimisticLockException
      */
