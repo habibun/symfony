@@ -49,7 +49,7 @@ db-wait: 			## Wait for database to be up. Looking DATABASE_URL
 
 db-destroy: 		## Execute doctrine:database:drop --force command
 					$(CONSOLE) doctrine:database:drop --force --if-exists
-					$(CONSOLE) doctrine:database:drop --force --env=test
+					$(CONSOLE) doctrine:database:drop --force --env=test --if-exists
 
 db-create:			## Execute doctrine:database:create
 					$(CONSOLE) doctrine:database:create --if-not-exists -vvv
@@ -58,7 +58,7 @@ db-migrate:			## Execute doctrine:migrations:migrate
 					$(CONSOLE) doctrine:migrations:migrate --allow-no-migration --no-interaction --all-or-nothing
 
 db-fixtures: 		## Execute doctrine:fixtures:load
-					$(CONSOLE) doctrine:fixtures:load --no-interaction --purge-with-truncate
+					$(CONSOLE) doctrine:fixtures:load --no-interaction
 
 db-fixtures-test: 	## Execute doctrine:fixtures:load fo test env
 					$(CONSOLE) doctrine:database:create -vvv --env=test
@@ -71,9 +71,9 @@ db-diff:			## Execute doctrine:migration:diff
 db-validate:		## Validate the doctrine ORM mapping
 					$(CONSOLE) doctrine:schema:validate
 
-db-init:			vendor db-wait db-create db-migrate db-fixtures db-fixtures-test ## Initialize database e.g : wait, create database, migrations and load fixtures (dev and test env)
+db-init:			db-create db-migrate db-fixtures
 
-db-update: 			vendor db-diff db-migrate ## Alias coupling db-diff and db-migrate
+db-update: 			vendor db-diff db-migrate
 
 .PHONY: 			db-wait db-destroy db-create db-migrate db-fixtures db-fixtures-test db-diff db-validate db-init db-update
 
