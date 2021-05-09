@@ -34,4 +34,6 @@ Releases:
 1. [HWIOAuthBundle](https://github.com/habibun/symfony/tree/15.0.0) [[REF]](https://github.com/hwi/HWIOAuthBundle)
    
 1. [ramsey/uuid-doctrine](https://github.com/habibun/symfony/tree/16.0.0) [[REF]](https://github.com/ramsey/uuid-doctrine)
+   
+1. [The Cache Component](https://github.com/habibun/symfony/tree/17.0.0) [[REF]](https://codereviewvideos.com/course/symfony-cache)
 
