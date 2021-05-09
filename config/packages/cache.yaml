@@ -15,7 +15,11 @@ framework:
         #app: cache.adapter.apcu
 
         # Filesystem Cache Adapter
-        app: cache.adapter.filesystem
+#        app: cache.adapter.filesystem
+
+        # Filesystem Cache Adapter
+        app: cache.adapter.memcached
+        default_memcached_provider: "memcached://%memcached.host%:%memcached.port%"
 
         # Namespaced pools use the above "app" backend by default
         #pools:
