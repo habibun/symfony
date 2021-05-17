@@ -29,3 +29,8 @@ services:
 
     # add more service definitions when explicit configuration is needed
     # please note that last definitions always *replace* previous ones
+
+    message_service:
+        class: App\Rabbit\MessageConsumer
+
+    App\Rabbit\MessagingProducer: '@old_sound_rabbit_mq.messaging_producer'
