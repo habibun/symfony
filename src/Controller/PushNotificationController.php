@@ -20,7 +20,7 @@ class PushNotificationController extends AbstractController
     }
 
     /**
-     * @Route("/push/notification/send", name="push_notification")
+     * @Route("/push/notification/send", name="push_notification_send")
      */
     public function send(PushNotification $pushNotification): Response
     {
