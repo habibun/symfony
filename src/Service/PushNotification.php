@@ -23,7 +23,7 @@ class PushNotification
             'url' => 'http://symfony.local',
         ]);
         $fields = [
-            'app_id' => '982660ca-c75b-432d-9056-ae4a3a6fdd1c',
+            'app_id' => '97b6f918-2b30-4b1b-a844-44e371eb0bb2',
             'included_segments' => [
                 'Subscribed Users',
             ],
@@ -42,7 +42,7 @@ class PushNotification
         curl_setopt($ch, CURLOPT_URL, 'https://onesignal.com/api/v1/notifications');
         curl_setopt($ch, CURLOPT_HTTPHEADER, [
             'Content-Type: application/json; charset=utf-8',
-            'Authorization: Basic YjEyZWNlZjAtYWJmYy00NTA0LThiNzItNDEwYzhlZDI2YWMw',
+            'Authorization: Basic NjRiNzJhNmUtZThmZS00NGJhLWFkYWYtYmRkZTYyOTRmMWZl',
         ]);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_HEADER, false);
@@ -59,8 +59,8 @@ class PushNotification
     public function addDevice()
     {
         $fields = [
-            'app_id' => '982660ca-c75b-432d-9056-ae4a3a6fdd1c',
-            'identifier' => 'YjEyZWNlZjAtYWJmYy00NTA0LThiNzItNDEwYzhlZDI2YWMw',
+            'app_id' => '97b6f918-2b30-4b1b-a844-44e371eb0bb2',
+            'identifier' => 'NjRiNzJhNmUtZThmZS00NGJhLWFkYWYtYmRkZTYyOTRmMWZl',
             'language' => 'en',
 //            'timezone' => '-28800',
 //            'game_version' => '1.0',
