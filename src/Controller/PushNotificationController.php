@@ -14,6 +14,16 @@ class PushNotificationController extends AbstractController
      */
     public function index(PushNotification $pushNotification): Response
     {
+        return $this->render('push_notification/index.html.twig', [
+            'controller_name' => 'HomepageController',
+        ]);
+    }
+
+    /**
+     * @Route("/push/notification/send", name="push_notification")
+     */
+    public function send(PushNotification $pushNotification): Response
+    {
         $response = $pushNotification->sendMessage();
         $return['allresponses'] = $response;
         $return = json_encode($return);
