@@ -2,8 +2,21 @@
 
 namespace App\Service;
 
+use Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface;
+
 class PushNotification
 {
+    private $params;
+    private $appId;
+    private $restApiKey;
+
+    public function __construct(ParameterBagInterface $params)
+    {
+        $this->params = $params;
+        $this->appId = $this->params->get('onesignal_app_id');
+        $this->restApiKey = $this->params->get('onesignal_rest_api_key');
+    }
+
     public function sendMessage()
     {
         $content = [
@@ -23,7 +36,7 @@ class PushNotification
             'url' => 'http://symfony.local',
         ]);
         $fields = [
-            'app_id' => '364748a5-6cac-45dd-917f-4dd902330601',
+            'app_id' => $this->appId,
             'included_segments' => [
                 'Subscribed Users',
             ],
@@ -42,7 +55,7 @@ class PushNotification
         curl_setopt($ch, CURLOPT_URL, 'https://onesignal.com/api/v1/notifications');
         curl_setopt($ch, CURLOPT_HTTPHEADER, [
             'Content-Type: application/json; charset=utf-8',
-            'Authorization: Basic NzE3MjdiZWUtNTIzMy00NGQxLWEyYjctNmQwYjdiMjc5NzZi',
+            'Authorization: Basic '.$this->restApiKey,
         ]);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_HEADER, false);
@@ -59,8 +72,8 @@ class PushNotification
     public function addDevice()
     {
         $fields = [
-            'app_id' => '364748a5-6cac-45dd-917f-4dd902330601',
-            'identifier' => 'NzE3MjdiZWUtNTIzMy00NGQxLWEyYjctNmQwYjdiMjc5NzZi',
+            'app_id' => $this->appId,
+            'identifier' => $this->restApiKey,
             'language' => 'en',
 //            'timezone' => '-28800',
 //            'game_version' => '1.0',
@@ -87,7 +100,5 @@ class PushNotification
         curl_close($ch);
 
         return $response;
-
-
     }
 }

@@ -7,11 +7,15 @@
 
     <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
     <script>
-        window.OneSignal = window.OneSignal || [];
+        var OneSignal = window.OneSignal || [];
         OneSignal.push(function() {
             OneSignal.init({
-                appId: "364748a5-6cac-45dd-917f-4dd902330601",
+                appId: "8c750474-1a6c-486a-a8bf-0e257998b353",
+                notifyButton: {
+                    enable: true,
+                },
             });
+            OneSignal.showNativePrompt();
         });
     </script>
 {% endblock %}
