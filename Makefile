@@ -131,8 +131,8 @@ update-prod:		## Update dependencies for prod
 					$(COMPOSER) dump-autoload --optimize --no-dev --classmap-authoritative
 					# sudo setfacl -R -m u:www-data:rwx -m u:`whoami`:rwx var/cache var/log
                     # sudo setfacl -dR -m u:www-data:rwx -m u:`whoami`:rwx var/cache var/log
-
-.PHONY:				cc cc-prod assets watch clear-assets clean clear update update-prod
+re-init:            db-destroy db-create db-migrate db-fixtures
+.PHONY:				cc cc-prod assets watch clear-assets clean clear update update-prod re-init
 
 ##
 ###-------------------#
