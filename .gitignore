@@ -10,11 +10,7 @@
 ###< symfony/framework-bundle ###
 
 ###> phpstorm ###
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
+/.idea
 ###< phpstorm ###
 
 ###> symfony/phpunit-bridge ###
