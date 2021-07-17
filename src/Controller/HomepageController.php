@@ -13,6 +13,7 @@ class HomepageController extends AbstractController
      */
     public function index(): Response
     {
+        throw new \Exception('testing');
         return $this->render('homepage/index.html.twig', [
             'controller_name' => 'HomepageController',
         ]);
