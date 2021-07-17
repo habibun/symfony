@@ -42,3 +42,5 @@ Releases:
 1. [OneSignal](https://github.com/habibun/symfony/tree/19.0.0) [[REF]](https://onesignal.com/)
    
 1. [AWS Elastic Beanstalk](https://github.com/habibun/symfony/tree/20.0.0) [[REF]](https://aws.amazon.com/elasticbeanstalk/)
+   
+1. [Sentry](https://github.com/habibun/symfony/tree/21.0.0) [[REF]](https://sentry.io/welcome/)
