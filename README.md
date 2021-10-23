@@ -35,8 +35,6 @@ Releases:
    
 1. [The Cache Component](https://github.com/habibun/symfony/tree/17.0.0) [[REF]](https://codereviewvideos.com/course/symfony-cache)
 
-1. [RabbitMQ](https://github.com/habibun/symfony/tree/18.0.0) [[REF]](https://medium.com/q-software/symfony-and-rabbitmq-86b14dd604b1)
-
 1. [OneSignal](https://github.com/habibun/symfony/tree/19.0.0) [[REF]](https://onesignal.com/)
    
 1. [AWS Elastic Beanstalk](https://github.com/habibun/symfony/tree/20.0.0) [[REF]](https://aws.amazon.com/elasticbeanstalk/)
