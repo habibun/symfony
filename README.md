@@ -32,13 +32,13 @@
 - [EasyAdminBundle](https://github.com/habibun/easy-admin-bundle) - wip
 - [VichUploaderBundle](https://github.com/habibun/vich-uploader-bundle)
 - [Sentry](https://github.com/habibun/sentry-symfony)
-- Doctrine
-  -  [The Value Object and Doctrine](https://github.com/habibun/symfony/tree/1.0.1) - wip
-  -  [Doctrine Inheritance Mapping](https://github.com/habibun/symfony/tree/11.0.0) [[REF]](https://www.doctrine-project.org/projects/doctrine-orm/en/2.8/reference/inheritance-mapping.html#inheritance-mapping)
+- [DoctrineBundle](https://github.com/habibun/doctrine-bundle)
+  -  [The Value Object and Doctrine](https://github.com/habibun/doctrine-bundle/tree/feature-value-object)
+  -  [Inheritance Mapping](https://github.com/habibun/symfony/tree/11.0.0) [[REF]](https://www.doctrine-project.org/projects/doctrine-orm/en/2.8/reference/inheritance-mapping.html#inheritance-mapping)
 
 
 # Package
-- [ramsey/uuid-doctrine](https://github.com/ramsey/uuid-doctrine)
+- [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
 
 
 # Component
