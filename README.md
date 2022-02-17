@@ -43,3 +43,12 @@
 
 # Component
 - [Uid Component](https://github.com/habibun/symfony-uid) -wip
+
+
+# Reading
+- [Symfony: The Fast Track](https://symfony.com/book)
+- [The Symfony Blog](https://symfony.com/blog/)
+- [The Symfony Blog](https://symfony.com/blog/)
+- [Symfony 4.2 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
+- [Think To Code](https://www.thinktocode.com/)
+
