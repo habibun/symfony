@@ -1,4 +1,4 @@
-# Core
+# Mix
 
 - [Heroku: Cloud Application Platform](https://github.com/habibun/symfony/tree/3.0.0)
 
@@ -34,7 +34,7 @@
 - [Sentry](https://github.com/habibun/sentry-symfony)
 - [DoctrineBundle](https://github.com/habibun/doctrine-bundle)
   -  [The Value Object and Doctrine](https://github.com/habibun/doctrine-bundle/tree/feature-value-object)
-  -  [Inheritance Mapping](https://github.com/habibun/symfony/tree/11.0.0) [[REF]](https://www.doctrine-project.org/projects/doctrine-orm/en/2.8/reference/inheritance-mapping.html#inheritance-mapping)
+  -  [Inheritance Mapping](https://github.com/habibun/doctrine-bundle/tree/feature-inheritance-mapping) 
 
 
 # Package
@@ -42,7 +42,7 @@
 
 
 # Component
-- [Uid Component](https://github.com/habibun/symfony-uid) -wip
+- [Uid Component](https://github.com/habibun/symfony-uid)
 
 
 # Reading
@@ -51,4 +51,5 @@
 - [The Symfony Blog](https://symfony.com/blog/)
 - [Symfony 4.2 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
 - [Think To Code](https://www.thinktocode.com/)
+- [Inanzzz](http://www.inanzzz.com/index.php/posts/symfony)
 
