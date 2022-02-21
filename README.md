@@ -1,12 +1,14 @@
 # Bundle 
 - [EasyAdminBundle](https://github.com/habibun/easy-admin-bundle) - wip
 - [VichUploaderBundle](https://github.com/habibun/vich-uploader-bundle)
-- [Sentry](https://github.com/habibun/sentry-symfony)
+- [SentryBundle](https://github.com/habibun/sentry-symfony)
 - [DoctrineBundle](https://github.com/habibun/doctrine-bundle)
   -  [The Value Object and Doctrine](https://github.com/habibun/doctrine-bundle/tree/feature-value-object)
   -  [Inheritance Mapping](https://github.com/habibun/doctrine-bundle/tree/feature-inheritance-mapping) 
 - [SecurityBundle](https://github.com/symfony/security-bundle)
   -  [Custom Authentication System with Guard](https://github.com/habibun/symfony-security/tree/feature-custom-authentication-system-with-guard)
+  -  [Using the form_login Authentication Provider](https://github.com/habibun/symfony-security/tree/feature-form-login-authenticator)
+  -  [Guard authenticator Login Form](https://github.com/habibun/symfony-security/tree/feature-form-login)
 
 
 # Package
@@ -33,10 +35,6 @@
 - [User’s Locale](https://github.com/habibun/symfony/tree/4.0.0)
 
 - [Voters to Check User Permissions](https://github.com/habibun/symfony/tree/6.0.0)
-
-- [Using the form_login Authentication Provider](https://github.com/habibun/symfony/tree/8.0.0) [[REF]](https://symfony.com/doc/current/security/form_login.html)
-
-- [Guard authenticator Login Form](https://github.com/habibun/symfony/tree/9.0.0) [[REF]](https://symfony.com/doc/current/security/form_login_setup.html)
 
 - [Embed a Collection of Forms](https://github.com/habibun/symfony/tree/10.0.0) [[REF]](https://symfony.com/doc/current/form/form_collections.html)
 
