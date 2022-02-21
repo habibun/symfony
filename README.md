@@ -6,10 +6,12 @@
   -  [The Value Object and Doctrine](https://github.com/habibun/doctrine-bundle/tree/feature-value-object)
   -  [Inheritance Mapping](https://github.com/habibun/doctrine-bundle/tree/feature-inheritance-mapping) 
 - [SecurityBundle](https://github.com/symfony/security-bundle)
-  -  [Custom Authentication System with Guard](https://github.com/habibun/symfony-security/tree/feature-custom-authentication-system-with-guard)
-  -  [Using the form_login Authentication Provider](https://github.com/habibun/symfony-security/tree/feature-form-login-authenticator)
-  -  [Guard authenticator Login Form](https://github.com/habibun/symfony-security/tree/feature-form-login)
-  -  [Voters to Check User Permissions](https://github.com/habibun/symfony-security/tree/feature-voter)
+  - [Custom Authentication System with Guard](https://github.com/habibun/symfony-security/tree/feature-custom-authentication-system-with-guard)
+  - [Using the form_login Authentication Provider](https://github.com/habibun/symfony-security/tree/feature-form-login-authenticator)
+  - [Guard authenticator Login Form](https://github.com/habibun/symfony-security/tree/feature-form-login)
+  - [Voters to Check User Permissions](https://github.com/habibun/symfony-security/tree/feature-voter)
+- [HWIOAuthBundle](https://github.com/habibun/hwio-auth-bundle) - wip
+- [FOSOAuthServerBundle](https://github.com/habibun/fos-oauth-server-bundle) - wip
 
 
 # Package
@@ -21,9 +23,14 @@
 - [Cache Component](https://github.com/habibun/symfony-cache)
 
 
+# Community
+- [GitHub](https://github.com/symfony/symfony/discussions)
+- [Slack chat](https://symfony.com/slack)
+- [SensioLabs](https://sensiolabs.com/)
+
+
 # Reading
 - [Symfony: The Fast Track](https://symfony.com/book)
-- [The Symfony Blog](https://symfony.com/blog/)
 - [The Symfony Blog](https://symfony.com/blog/)
 - [Symfony 4.2 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
 - [Think To Code](https://www.thinktocode.com/)
