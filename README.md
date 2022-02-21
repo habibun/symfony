@@ -9,6 +9,7 @@
   -  [Custom Authentication System with Guard](https://github.com/habibun/symfony-security/tree/feature-custom-authentication-system-with-guard)
   -  [Using the form_login Authentication Provider](https://github.com/habibun/symfony-security/tree/feature-form-login-authenticator)
   -  [Guard authenticator Login Form](https://github.com/habibun/symfony-security/tree/feature-form-login)
+  -  [Voters to Check User Permissions](https://github.com/habibun/symfony-security/tree/feature-voter)
 
 
 # Package
@@ -33,8 +34,6 @@
 - [Heroku: Cloud Application Platform](https://github.com/habibun/symfony/tree/3.0.0)
 
 - [User’s Locale](https://github.com/habibun/symfony/tree/4.0.0)
-
-- [Voters to Check User Permissions](https://github.com/habibun/symfony/tree/6.0.0)
 
 - [Embed a Collection of Forms](https://github.com/habibun/symfony/tree/10.0.0) [[REF]](https://symfony.com/doc/current/form/form_collections.html)
 
