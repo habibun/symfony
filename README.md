@@ -37,9 +37,11 @@
 - [Inanzzz](http://www.inanzzz.com/index.php/posts/symfony)
 
 
-# Mix
-- [Heroku: Cloud Application Platform](https://github.com/habibun/symfony/tree/3.0.0)
+# Miscellaneous
+- [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 
+
+# Mix
 - [User’s Locale](https://github.com/habibun/symfony/tree/4.0.0)
 
 - [Embed a Collection of Forms](https://github.com/habibun/symfony/tree/10.0.0) [[REF]](https://symfony.com/doc/current/form/form_collections.html)
