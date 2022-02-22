@@ -10,7 +10,7 @@
   - [Using the form_login Authentication Provider](https://github.com/habibun/symfony-security/tree/feature-form-login-authenticator)
   - [Guard authenticator Login Form](https://github.com/habibun/symfony-security/tree/feature-form-login)
   - [Voters to Check User Permissions](https://github.com/habibun/symfony-security/tree/feature-voter)
-- [HWIOAuthBundle](https://github.com/habibun/hwio-auth-bundle) - wip
+- [HWIOAuthBundle](https://github.com/habibun/hwio-auth-bundle)
 - [FOSOAuthServerBundle](https://github.com/habibun/fos-oauth-server-bundle) - wip
 
 
@@ -47,8 +47,6 @@
 - [SOLID principles](https://github.com/habibun/symfony/tree/12.0.0) [[REF]](https://medium.com/analytics-vidhya/dependency-injection-and-solid-principles-with-symfony-the-geocoding-example-f18ad08ed20b)
 
 - [FriendsOfSymfony/FOSOAuthServerBundle](https://github.com/habibun/symfony/tree/14.0.0) [[REF]](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle)
-
-- [HWIOAuthBundle](https://github.com/habibun/symfony/tree/15.0.0) [[REF]](https://github.com/hwi/HWIOAuthBundle)
 
 - [OneSignal](https://github.com/habibun/symfony/tree/19.0.0) [[REF]](https://onesignal.com/)
 
