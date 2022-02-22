@@ -11,7 +11,7 @@
   - [Guard authenticator Login Form](https://github.com/habibun/symfony-security/tree/feature-form-login)
   - [Voters to Check User Permissions](https://github.com/habibun/symfony-security/tree/feature-voter)
 - [HWIOAuthBundle](https://github.com/habibun/hwio-auth-bundle)
-- [FOSOAuthServerBundle](https://github.com/habibun/fos-oauth-server-bundle) - wip
+- [FOSOAuthServerBundle](https://github.com/habibun/fos-oauth-server-bundle)
 
 
 # Package
@@ -45,8 +45,6 @@
 - [Embed a Collection of Forms](https://github.com/habibun/symfony/tree/10.0.0) [[REF]](https://symfony.com/doc/current/form/form_collections.html)
 
 - [SOLID principles](https://github.com/habibun/symfony/tree/12.0.0) [[REF]](https://medium.com/analytics-vidhya/dependency-injection-and-solid-principles-with-symfony-the-geocoding-example-f18ad08ed20b)
-
-- [FriendsOfSymfony/FOSOAuthServerBundle](https://github.com/habibun/symfony/tree/14.0.0) [[REF]](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle)
 
 - [OneSignal](https://github.com/habibun/symfony/tree/19.0.0) [[REF]](https://onesignal.com/)
 
