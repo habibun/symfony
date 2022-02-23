@@ -39,12 +39,10 @@
 
 # Miscellaneous
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
-
+- [User’s Locale](https://github.com/habibun/symfony-user-locale)
+- [Embed a Collection of Forms](https://github.com/habibun/symfony-collection-of-forms)
 
 # Mix
-- [User’s Locale](https://github.com/habibun/symfony/tree/4.0.0)
-
-- [Embed a Collection of Forms](https://github.com/habibun/symfony/tree/10.0.0) [[REF]](https://symfony.com/doc/current/form/form_collections.html)
 
 - [SOLID principles](https://github.com/habibun/symfony/tree/12.0.0) [[REF]](https://medium.com/analytics-vidhya/dependency-injection-and-solid-principles-with-symfony-the-geocoding-example-f18ad08ed20b)
 
