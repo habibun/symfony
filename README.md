@@ -44,10 +44,4 @@
 - [Web push notifications with OneSignal](https://github.com/habibun/symfony-one-signal)
 - [AWS](https://github.com/habibun/aws)
   - [AWS Elastic Beanstalk](https://github.com/habibun/aws/tree/feature-elastic-beanstalk)
-
-# Mix
-
-- [SOLID principles](https://github.com/habibun/symfony/tree/12.0.0) [[REF]](https://medium.com/analytics-vidhya/dependency-injection-and-solid-principles-with-symfony-the-geocoding-example-f18ad08ed20b)
-
-
-   
+- [SOLID principles](https://github.com/habibun/solid)
