@@ -41,12 +41,12 @@
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 - [User’s Locale](https://github.com/habibun/symfony-user-locale)
 - [Embed a Collection of Forms](https://github.com/habibun/symfony-collection-of-forms)
+- [Web push notifications with OneSignal](https://github.com/habibun/symfony-one-signal)
+
 
 # Mix
 
 - [SOLID principles](https://github.com/habibun/symfony/tree/12.0.0) [[REF]](https://medium.com/analytics-vidhya/dependency-injection-and-solid-principles-with-symfony-the-geocoding-example-f18ad08ed20b)
-
-- [OneSignal](https://github.com/habibun/symfony/tree/19.0.0) [[REF]](https://onesignal.com/)
 
 - [AWS Elastic Beanstalk](https://github.com/habibun/symfony/tree/20.0.0) [[REF]](https://aws.amazon.com/elasticbeanstalk/)
    
