@@ -45,3 +45,7 @@
 - [AWS](https://github.com/habibun/aws)
   - [AWS Elastic Beanstalk](https://github.com/habibun/aws/tree/feature-elastic-beanstalk)
 - [SOLID principles](https://github.com/habibun/solid)
+
+
+## License
+The code is licensed under the [MIT License](https://github.com/habibun/symfony/blob/master/LICENSE)
