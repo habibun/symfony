@@ -49,7 +49,7 @@
 - [Elasticsearch](https://github.com/habibun/elasticsearch)
 - [Login with Github](https://github.com/habibun/login-with-github)
 
-# Courses
+# Course
 - [Charming Development in Symfony 5](https://github.com/habibun/symfony-5)
 
 ## License
