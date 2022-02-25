@@ -15,10 +15,10 @@
 - [RabbitMqBundle](https://github.com/habibun/rabbit-mq-bundle)
 
 # Package
-- [`ramsey/uuid-doctrine`](https://github.com/habibun/ramsey-uuid-doctrine)
-- [`facebook/graph-sdk`](https://github.com/habibun/facebook-graph-sdk)
-- [`symfony/uid`](https://github.com/habibun/symfony-uid)
-- [`symfony/cache`](https://github.com/habibun/symfony-cache)
+- [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
+- [facebook/graph-sdk](https://github.com/habibun/facebook-graph-sdk)
+- [symfony/uid](https://github.com/habibun/symfony-uid)
+- [symfony/cache](https://github.com/habibun/symfony-cache)
 
 
 # Community
