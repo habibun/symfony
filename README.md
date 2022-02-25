@@ -55,7 +55,7 @@
 
 
 # Legacy
-- [craft](https://github.com/habibun/craft)
+- [craft - Test project based in symfony2](https://github.com/habibun/craft)
 
 
 ## License
