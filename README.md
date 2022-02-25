@@ -19,6 +19,7 @@
 - [facebook/graph-sdk](https://github.com/habibun/facebook-graph-sdk)
 - [symfony/uid](https://github.com/habibun/symfony-uid)
 - [symfony/cache](https://github.com/habibun/symfony-cache)
+- [google/apiclient](https://github.com/habibun/google-apiclient)
 
 
 # Community
