@@ -47,6 +47,7 @@
 - [SOLID principles](https://github.com/habibun/solid)
 - [Behat](https://github.com/habibun/behat)
 - [Elasticsearch](https://github.com/habibun/elasticsearch)
+- [Login with Github](https://github.com/habibun/login-with-github)
 
 # Courses
 - [Charming Development in Symfony 5](https://github.com/habibun/symfony-5)
