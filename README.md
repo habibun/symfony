@@ -17,11 +17,8 @@
 # Package
 - [`ramsey/uuid-doctrine`](https://github.com/habibun/ramsey-uuid-doctrine)
 - [`facebook/graph-sdk`](https://github.com/habibun/facebook-graph-sdk)
-
-
-# Component
-- [Uid Component](https://github.com/habibun/symfony-uid)
-- [Cache Component](https://github.com/habibun/symfony-cache)
+- [`symfony/uid`](https://github.com/habibun/symfony-uid)
+- [`symfony/cache`](https://github.com/habibun/symfony-cache)
 
 
 # Community
