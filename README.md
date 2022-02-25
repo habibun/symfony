@@ -12,7 +12,7 @@
   - [Voters to Check User Permissions](https://github.com/habibun/symfony-security/tree/feature-voter)
 - [HWIOAuthBundle](https://github.com/habibun/hwio-auth-bundle)
 - [FOSOAuthServerBundle](https://github.com/habibun/fos-oauth-server-bundle)
-
+- [RabbitMqBundle](https://github.com/habibun/rabbit-mq-bundle)
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
