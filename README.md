@@ -49,6 +49,7 @@
 
 # Course
 - [Charming Development in Symfony 5](https://github.com/habibun/symfony-5)
+- [Learn PHP Symfony Hands-On Creating Real World Application](https://github.com/habibun/symfony-hands-on)
 
 ## License
 The code is licensed under the [MIT License](https://github.com/habibun/symfony/blob/master/LICENSE)
