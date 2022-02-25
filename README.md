@@ -15,7 +15,8 @@
 - [RabbitMqBundle](https://github.com/habibun/rabbit-mq-bundle)
 
 # Package
-- [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
+- [`ramsey/uuid-doctrine`](https://github.com/habibun/ramsey-uuid-doctrine)
+- [`facebook/graph-sdk`](https://github.com/habibun/facebook-graph-sdk)
 
 
 # Component
