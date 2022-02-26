@@ -48,6 +48,7 @@
 - [Elasticsearch](https://github.com/habibun/elasticsearch)
 - [Login with Github](https://github.com/habibun/login-with-github)
 - [A docker skeleton for Symfony 4 project](https://github.com/habibun/symfony-docker)
+- [Single page application with symfony 4 and vue js](https://github.com/habibun/symfony-vue)
 
 # Course
 - [Charming Development in Symfony 5](https://github.com/habibun/symfony-5)
