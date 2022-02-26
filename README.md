@@ -54,6 +54,7 @@
 - [Charming Development in Symfony 5](https://github.com/habibun/symfony-5)
 - [Learn PHP Symfony Hands-On Creating Real World Application](https://github.com/habibun/symfony-hands-on)
 - [Symfony 5 PHP Framework](https://github.com/habibun/symfony5-udemy)
+- [REST API with Symfony5 and PHP8 using Domain Driven Design](https://github.com/habibun/guess)
 
 
 # Legacy
