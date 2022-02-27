@@ -56,6 +56,7 @@
 - [Symfony 5 PHP Framework](https://github.com/habibun/symfony5-udemy)
 - [REST API with Symfony5 and PHP8 using Domain Driven Design](https://github.com/habibun/guess)
 - [Symfony API Platform with React Full Stack Masterclass](https://github.com/habibun/api-platform)
+- [Layered Architecture with Symfony](https://github.com/habibun/layered-architecture)
 
 
 # Legacy
