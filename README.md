@@ -49,6 +49,9 @@
 - [Login with Github](https://github.com/habibun/login-with-github)
 - [A docker skeleton for Symfony 4 project](https://github.com/habibun/symfony-docker)
 - [Single page application with symfony 4 and vue js](https://github.com/habibun/symfony-vue)
+- [Layered Architecture with Symfony](https://github.com/habibun/layered-architecture)
+- [CQRS with Symfony](https://github.com/habibun/cqrs)
+
 
 # Course
 - [Charming Development in Symfony 5](https://github.com/habibun/symfony-5)
@@ -56,7 +59,6 @@
 - [Symfony 5 PHP Framework](https://github.com/habibun/symfony5-udemy)
 - [REST API with Symfony5 and PHP8 using Domain Driven Design](https://github.com/habibun/guess)
 - [Symfony API Platform with React Full Stack Masterclass](https://github.com/habibun/api-platform)
-- [Layered Architecture with Symfony](https://github.com/habibun/layered-architecture)
 
 
 # Legacy
