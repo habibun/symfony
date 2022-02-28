@@ -53,6 +53,7 @@
 - [CQRS with Symfony](https://github.com/habibun/cqrs)
 - [Hexagonal Architecture with PHP using Symfony](https://github.com/habibun/hexagonal-architecture)
 - [Domain-Driven Design skeleton with Symfony](https://github.com/habibun/ddd-skeleton)
+- [Migrate Symfony Project to Kubernetes!](https://github.com/habibun/kubernetes)
 
 
 # Course
