@@ -52,6 +52,7 @@
 - [Layered Architecture with Symfony](https://github.com/habibun/layered-architecture)
 - [CQRS with Symfony](https://github.com/habibun/cqrs)
 - [Hexagonal Architecture with PHP using Symfony](https://github.com/habibun/hexagonal-architecture)
+- [Domain-Driven Design skeleton with Symfony](https://github.com/habibun/ddd-skeleton)
 
 
 # Course
