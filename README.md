@@ -51,6 +51,7 @@
 - [Single page application with symfony 4 and vue js](https://github.com/habibun/symfony-vue)
 - [Layered Architecture with Symfony](https://github.com/habibun/layered-architecture)
 - [CQRS with Symfony](https://github.com/habibun/cqrs)
+- [Hexagonal Architecture with PHP using Symfony](https://github.com/habibun/hexagonal-architecture)
 
 
 # Course
