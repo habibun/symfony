@@ -47,7 +47,7 @@
 - [Behat](https://github.com/habibun/behat)
 - [Elasticsearch](https://github.com/habibun/elasticsearch)
 - [Login with Github](https://github.com/habibun/login-with-github)
-- [A docker skeleton for Symfony 4 project](https://github.com/habibun/symfony-docker)
+- [Using Docker with Symfony](https://github.com/habibun/symfony-docker)
 - [Single page application with symfony 4 and vue js](https://github.com/habibun/symfony-vue)
 - [Layered Architecture with Symfony](https://github.com/habibun/layered-architecture)
 - [CQRS with Symfony](https://github.com/habibun/cqrs)
