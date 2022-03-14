@@ -45,6 +45,7 @@
 - [Web push notifications with OneSignal](https://github.com/habibun/symfony-one-signal)
 - [AWS](https://github.com/habibun/aws)
   - [AWS Elastic Beanstalk](https://github.com/habibun/aws/tree/feature-elastic-beanstalk)
+  - [Amazon Simple Email Service](https://github.com/habibun/symfony-notifier)
 - [SOLID principles](https://github.com/habibun/solid)
 - [Behat](https://github.com/habibun/behat)
 - [Elasticsearch](https://github.com/habibun/elasticsearch)
