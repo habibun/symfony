@@ -23,6 +23,7 @@
 - [symfony/cache](https://github.com/habibun/symfony-cache)
 - [google/apiclient](https://github.com/habibun/google-apiclient)
 - [symfony/notifier](https://github.com/habibun/symfony-notifier) - wip
+- [knplabs/doctrine-behaviors](https://github.com/habibun/a2lix-translation-form-bundle)
 
 
 # Community
