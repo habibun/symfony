@@ -71,7 +71,7 @@
   - [Learn PHP Symfony Hands-On Creating Real World Application](https://github.com/habibun/symfony-hands-on)
   - [Symfony API Platform with React Full Stack Masterclass](https://github.com/habibun/api-platform)
 - `Symfony 6` 
-- [Harmonious Development with Symfony 6](https://github.com/habibun/symfony-6) - wip
+  - [Harmonious Development with Symfony 6](https://github.com/habibun/symfony-6) - wip
 
 # Legacy
 - [craft - Test project based in symfony2](https://github.com/habibun/craft)
