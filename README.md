@@ -70,7 +70,6 @@
   - [REST API with Symfony5 and PHP8 using Domain Driven Design](https://github.com/habibun/guess)
   - [Learn PHP Symfony Hands-On Creating Real World Application](https://github.com/habibun/symfony-hands-on)
   - [Symfony API Platform with React Full Stack Masterclass](https://github.com/habibun/api-platform)
-- 
 - `Symfony 6` 
 - [Harmonious Development with Symfony 6](https://github.com/habibun/symfony-6) - wip
 
