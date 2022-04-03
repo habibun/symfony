@@ -24,7 +24,7 @@
 - [google/apiclient](https://github.com/habibun/google-apiclient)
 - [symfony/notifier](https://github.com/habibun/symfony-notifier) - wip
 - [knplabs/doctrine-behaviors](https://github.com/habibun/a2lix-translation-form-bundle)
-- [beberlei/doctrineextensions](https://github.com/habibun/beberlei-doctrine-extensions) - wip
+- [beberlei/doctrineextensions](https://github.com/habibun/beberlei-doctrine-extensions)
 
 
 # Community
