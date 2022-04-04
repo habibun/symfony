@@ -15,6 +15,7 @@
 - [FOSOAuthServerBundle](https://github.com/habibun/fos-oauth-server-bundle)
 - [RabbitMqBundle](https://github.com/habibun/rabbit-mq-bundle)
 - [A2lixTranslationFormBundle](https://github.com/habibun/a2lix-translation-form-bundle)
+- [RssAtomBundle](https://github.com/habibun/debril-rss-atom-bundle) - wip
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
