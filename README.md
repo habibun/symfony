@@ -26,7 +26,7 @@
 - [symfony/notifier](https://github.com/habibun/symfony-notifier) - wip
 - [knplabs/doctrine-behaviors](https://github.com/habibun/a2lix-translation-form-bundle)
 - [beberlei/doctrineextensions](https://github.com/habibun/beberlei-doctrine-extensions)
-- [dompdf/dompdf](https://github.com/habibun/dompdf-dompdf) - wip
+- [dompdf/dompdf](https://github.com/habibun/dompdf-dompdf)
 
 
 # Community
