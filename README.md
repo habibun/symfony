@@ -11,7 +11,7 @@
   - [Using the form_login Authentication Provider](https://github.com/habibun/symfony-security/tree/feature-form-login-authenticator)
   - [Guard authenticator Login Form](https://github.com/habibun/symfony-security/tree/feature-form-login)
   - [Voters to Check User Permissions](https://github.com/habibun/symfony-security/tree/feature-voter)
-- [HWIOAuthBundle](https://github.com/habibun/hwio-auth-bundle)
+- [HWIOAuthBundle](https://github.com/habibun/hwio-auth-bundle) - wip
 - [FOSOAuthServerBundle](https://github.com/habibun/fos-oauth-server-bundle)
 - [RabbitMqBundle](https://github.com/habibun/rabbit-mq-bundle)
 - [A2lixTranslationFormBundle](https://github.com/habibun/a2lix-translation-form-bundle)
