@@ -1,5 +1,5 @@
 # Bundle 
-- [EasyAdminBundle](https://github.com/habibun/easy-admin-bundle) - wip
+- [EasyAdminBundle](https://github.com/habibun/easy-admin-bundle)
 - [VichUploaderBundle](https://github.com/habibun/vich-uploader-bundle)
 - [SentryBundle](https://github.com/habibun/sentry-symfony)
 - [DoctrineBundle](https://github.com/habibun/doctrine-bundle)
