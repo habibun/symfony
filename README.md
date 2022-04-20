@@ -17,6 +17,7 @@
 - [A2lixTranslationFormBundle](https://github.com/habibun/a2lix-translation-form-bundle)
 - [RssAtomBundle](https://github.com/habibun/debril-rss-atom-bundle)
 - [EWZRecaptchaBundle](https://github.com/habibun/excelwebzone-recaptcha-bundle) - wip
+- [PayumBundle](https://github.com/habibun/payum-payum-bundle) - wip
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
