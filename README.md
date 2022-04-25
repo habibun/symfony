@@ -18,6 +18,7 @@
 - [RssAtomBundle](https://github.com/habibun/debril-rss-atom-bundle)
 - [EWZRecaptchaBundle](https://github.com/habibun/excelwebzone-recaptcha-bundle) - wip
 - [PayumBundle](https://github.com/habibun/payum-payum-bundle)
+- [FOSCommentBundle](https://github.com/habibun/fos-comment-bundle)
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
