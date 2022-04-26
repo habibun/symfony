@@ -19,7 +19,7 @@
 - [EWZRecaptchaBundle](https://github.com/habibun/excelwebzone-recaptcha-bundle) - wip
 - [PayumBundle](https://github.com/habibun/payum-payum-bundle)
 - [FOSCommentBundle](https://github.com/habibun/fos-comment-bundle)
-- [FOSJsRoutingBundle](https://github.com/habibun/fos-js-routing-bundle) - wip
+- [FOSJsRoutingBundle](https://github.com/habibun/fos-js-routing-bundle)
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
