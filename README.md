@@ -20,7 +20,7 @@
 - [PayumBundle](https://github.com/habibun/payum-payum-bundle)
 - [FOSCommentBundle](https://github.com/habibun/fos-comment-bundle)
 - [FOSJsRoutingBundle](https://github.com/habibun/fos-js-routing-bundle)
-- [JMSTranslationBundle](https://github.com/habibun/jms-translation-bundle)
+- [JMSTranslationBundle](https://github.com/habibun/jms-translation-bundle) - wip
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
