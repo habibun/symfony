@@ -34,7 +34,7 @@
 - [beberlei/doctrineextensions](https://github.com/habibun/beberlei-doctrine-extensions)
 - [dompdf/dompdf](https://github.com/habibun/dompdf-dompdf)
 - [geoip2/geoip2](https://github.com/habibun/geoip2-geoip2)
-- [symfony/translation](https://github.com/habibun/symfony-translation) -wip
+- [symfony/translation](https://github.com/habibun/symfony-translation)
 
 
 # Community
