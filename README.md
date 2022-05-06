@@ -23,6 +23,7 @@
 - [JMSTranslationBundle](https://github.com/habibun/jms-translation-bundle)
 - [BazingaJsTranslationBundle](https://github.com/habibun/willdurand-js-translation-bundle)
 - [PrestaSitemapBundle](https://github.com/habibun/presta-sitemap-bundle)
+- [PUGXAutocompleterBundle](https://github.com/habibun/pugx-autocompleter-bundle) - wip
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
