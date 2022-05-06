@@ -24,7 +24,7 @@
 - [BazingaJsTranslationBundle](https://github.com/habibun/willdurand-js-translation-bundle)
 - [PrestaSitemapBundle](https://github.com/habibun/presta-sitemap-bundle)
 - [PUGXAutocompleterBundle](https://github.com/habibun/pugx-autocompleter-bundle)
-- [StofDoctrineExtensionsBundle](next) -wip
+- [StofDoctrineExtensionsBundle](https://github.com/habibun/stof-doctrine-extensions-bundle) - wip
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
