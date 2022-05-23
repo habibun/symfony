@@ -21,7 +21,7 @@
 - [FOSCommentBundle](https://github.com/habibun/fos-comment-bundle)
 - [FOSJsRoutingBundle](https://github.com/habibun/fos-js-routing-bundle)
 - [JMSTranslationBundle](https://github.com/habibun/jms-translation-bundle)
-- [BazingaJsTranslationBundle](https://github.com/habibun/willdurand-js-translation-bundle)
+- [BazingaJsTranslationBundle](https://github.com/habibun/willdurand-js-translation-bundle) - willdurand/js-translation-bundle
 - [PrestaSitemapBundle](https://github.com/habibun/presta-sitemap-bundle)
 - [PUGXAutocompleterBundle](https://github.com/habibun/pugx-autocompleter-bundle)
 - [StofDoctrineExtensionsBundle](https://github.com/habibun/stof-doctrine-extensions-bundle)
