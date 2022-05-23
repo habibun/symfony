@@ -25,7 +25,7 @@
 - [PrestaSitemapBundle](https://github.com/habibun/presta-sitemap-bundle)
 - [PUGXAutocompleterBundle](https://github.com/habibun/pugx-autocompleter-bundle)
 - [StofDoctrineExtensionsBundle](https://github.com/habibun/stof-doctrine-extensions-bundle)
-- [WelpMailchimpBundle](https://github.com/habibun/welp-mailchimp-bundle) - wip
+- [WelpMailchimpBundle](https://github.com/habibun/welp-mailchimp-bundle)
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
