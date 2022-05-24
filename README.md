@@ -26,7 +26,7 @@
 - [PUGXAutocompleterBundle](https://github.com/habibun/pugx-autocompleter-bundle)
 - [StofDoctrineExtensionsBundle](https://github.com/habibun/stof-doctrine-extensions-bundle)
 - [WelpMailchimpBundle](https://github.com/habibun/welp-mailchimp-bundle)
-- [YellowskiesQRcodeBundle](https://github.com/habibun/yellowskies-qr-code-bundle) - wip 
+- [YellowskiesQRcodeBundle](https://github.com/habibun/yellowskies-qr-code-bundle)
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
