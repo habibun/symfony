@@ -58,7 +58,7 @@
 
 
 # Miscellaneous
-- [Symfony: The Fast Track](https://github.com/habibun/symfony-book) - wip
+- [Symfony: The Fast Track](https://github.com/habibun/symfony-book)
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 - [User’s Locale](https://github.com/habibun/symfony-user-locale)
 - [Embed a Collection of Forms](https://github.com/habibun/symfony-collection-of-forms)
