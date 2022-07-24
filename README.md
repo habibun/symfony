@@ -55,6 +55,7 @@
 - [Symfony 4.2 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
 - [Think To Code](https://www.thinktocode.com/)
 - [Inanzzz](http://www.inanzzz.com/index.php/posts/symfony)
+- [Matthias Noback - Blog](https://matthiasnoback.nl/)
 
 
 # Miscellaneous
