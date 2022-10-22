@@ -82,6 +82,8 @@
 - [Stripe](https://github.com/habibun/stripe)
   - [Stripe - Accept a payment](https://github.com/habibun/stripe/tree/gary-clarke)
   - [Implements PayumBundle in symfony](https://github.com/habibun/payum-payum-bundle)
+- [REST](https://github.com/habibun/symfony-rest)
+  - [Building Restful APIs with Symfony 5 and PHP 8](https://github.com/habibun/symfony-rest/tree/hantsy)
 
 
 # Course
