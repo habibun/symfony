@@ -84,6 +84,7 @@
   - [Implements PayumBundle in symfony](https://github.com/habibun/payum-payum-bundle)
 - [REST](https://github.com/habibun/symfony-rest)
   - [Building Restful APIs with Symfony 5 and PHP 8](https://github.com/habibun/symfony-rest/tree/hantsy)
+- [Symfony custom authentication using Auth0](https://github.com/habibun/symfony-auth0)
 
 
 # Course
