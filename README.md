@@ -28,6 +28,7 @@
 - [WelpMailchimpBundle](https://github.com/habibun/welp-mailchimp-bundle)
 - [YellowskiesQRcodeBundle](https://github.com/habibun/yellowskies-qr-code-bundle)
 - [MonologBundle](https://github.com/habibun/symfony-monolog-bundle)
+- [DoctrineMongoDBBundle](https://github.com/habibun/doctrine-mongo-db-bundle)
 
 # Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
