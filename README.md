@@ -59,8 +59,7 @@
 - [Matthias Noback - Blog](https://matthiasnoback.nl/)
 
 
-# Miscellaneous
-- [Symfony: The Fast Track](https://github.com/habibun/symfony-book)
+# Miscellaneous  
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 - [User’s Locale](https://github.com/habibun/symfony-user-locale)
 - [Embed a Collection of Forms](https://github.com/habibun/symfony-collection-of-forms)
