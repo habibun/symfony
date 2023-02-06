@@ -1,4 +1,4 @@
-# Bundle 
+## Bundle 
 - [EasyAdminBundle](https://github.com/habibun/easy-admin-bundle)
 - [VichUploaderBundle](https://github.com/habibun/vich-uploader-bundle)
 - [SentryBundle](https://github.com/habibun/sentry-symfony)
@@ -30,7 +30,7 @@
 - [MonologBundle](https://github.com/habibun/symfony-monolog-bundle)
 - [DoctrineMongoDBBundle](https://github.com/habibun/doctrine-mongodb-odm-bundle)
 
-# Package
+## Package
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
 - [facebook/graph-sdk](https://github.com/habibun/facebook-graph-sdk)
 - [symfony/uid](https://github.com/habibun/symfony-uid)
@@ -44,13 +44,13 @@
 - [symfony/translation](https://github.com/habibun/symfony-translation)
 
 
-# Community
+## Community
 - [GitHub](https://github.com/symfony/symfony/discussions)
 - [Slack chat](https://symfony.com/slack)
 - [SensioLabs](https://sensiolabs.com/)
 
 
-# Reading
+## Reading
 - [Symfony: The Fast Track](https://symfony.com/book)
 - [The Symfony Blog](https://symfony.com/blog/)
 - [Symfony 4.2 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
@@ -59,7 +59,7 @@
 - [Matthias Noback - Blog](https://matthiasnoback.nl/)
 
 
-# Miscellaneous  
+## Miscellaneous  
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 - [User’s Locale](https://github.com/habibun/symfony-user-locale)
 - [Embed a Collection of Forms](https://github.com/habibun/symfony-collection-of-forms)
@@ -87,7 +87,7 @@
 - [Symfony custom authentication using Auth0](https://github.com/habibun/symfony-auth0)
 
 
-# Course
+## Course
 - `Symfony 5` 
   - [Charming Development in Symfony 5](https://github.com/habibun/symfony-5)
   - [Symfony 5 PHP Framework](https://github.com/habibun/symfony-5-php-framework)
@@ -98,7 +98,7 @@
 - `Symfony 6` 
   - [Harmonious Development with Symfony 6](https://github.com/habibun/symfony-6)
 
-# Legacy
+## Legacy
 - [craft - Test project based in symfony2](https://github.com/habibun/craft)
 
 
