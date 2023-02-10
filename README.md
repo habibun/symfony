@@ -2,7 +2,7 @@
 
 
 ## UX
-- https://github.com/habibun/symfony-ux
+- [Symfony UX](https://github.com/habibun/symfony-ux)
   - [Easy charts with Chart.js](https://github.com/habibun/symfony-ux/tree/jakub-tobiasz)
 
 
