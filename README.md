@@ -1,8 +1,9 @@
 # Getting Started with Symfony  
 
 
-## Symfony UX
-- https://github.com/habibun/symfony-ux - wip
+## UX
+- https://github.com/habibun/symfony-ux
+  - [Easy charts with Chart.js](https://github.com/habibun/symfony-ux/tree/jakub-tobiasz)
 
 
 ## Bundle 
