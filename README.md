@@ -102,6 +102,7 @@
   - [Charming Development in Symfony 5](https://github.com/habibun/symfony-casts/tree/symfony5)
   - [Symfony 5 PHP Framework](https://github.com/habibun/symfony-5-php-framework)
 - `Symfony 4` 
+  - [Webpack Encore: Frontend like a Pro!](https://github.com/habibun/symfony-casts/tree/webpack-encore)
   - [REST API with Symfony5 and PHP8 using Domain Driven Design](https://github.com/habibun/guess)
   - [Learn PHP Symfony Hands-On Creating Real World Application](https://github.com/habibun/symfony-hands-on)
   - [Symfony API Platform with React Full Stack Masterclass](https://github.com/habibun/api-platform)
