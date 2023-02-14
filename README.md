@@ -96,14 +96,26 @@
 
 
 ## Course
-- [SymfonyCasts Free Courses](https://github.com/habibun/symfony-casts)
+- [SymfonyCasts Free Courses][symfony-casts]  
+  - [Harmonious Development with Symfony 6][symfony-casts]                                   
+  - [Charming Development in Symfony 5][symfony-casts]                                      
+  - [Stellar Development with Symfony 4][symfony-casts]                                      
+  - [Webpack Encore: Frontend like a Pro!][symfony-casts]                             
+  - [Contributing back to Symfony!][symfony-casts]                                      
+  - [Joyful Development with Symfony 3][symfony-casts]                                     
+  - [FOSUserBundle FTW!][symfony-casts]                                                 
+  - [Symfony Best Practices][symfony-casts]                                    
+  - [Symfony Security Voters (free cookies!)][symfony-casts]                           
+  - [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][symfony-casts]                   
+  - [Dependency Injection and the art of services and containers][symfony-casts] 
+  - [PHP Namespaces in Under 5 Minutes][symfony-casts]                                 
+  - [Wonderful World of Composer][symfony-casts] 
 
-
-
-  - [Symfony 5 PHP Framework](https://github.com/habibun/symfony-5-php-framework)
-  - [REST API with Symfony5 and PHP8 using Domain Driven Design](https://github.com/habibun/guess)
-  - [Learn PHP Symfony Hands-On Creating Real World Application](https://github.com/habibun/symfony-hands-on)
-  - [Symfony API Platform with React Full Stack Masterclass](https://github.com/habibun/api-platform)
+todo - wip
+ - [Symfony 5 PHP Framework](https://github.com/habibun/symfony-5-php-framework)
+ - [REST API with Symfony5 and PHP8 using Domain Driven Design](https://github.com/habibun/guess)
+ - [Learn PHP Symfony Hands-On Creating Real World Application](https://github.com/habibun/symfony-hands-on)
+ - [Symfony API Platform with React Full Stack Masterclass](https://github.com/habibun/api-platform)
 
 
 ## Legacy
@@ -112,3 +124,7 @@
 
 ## License
 The code is licensed under the [MIT License](https://github.com/habibun/symfony/blob/master/LICENSE)
+
+
+[//]: # (Links)
+[symfony-casts]: https://github.com/habibun/symfony-casts
