@@ -112,10 +112,10 @@
   - [Wonderful World of Composer][symfony-casts] 
 
 - Udemy Paid Courses
-  - [Symfony 5 PHP Framework][u-symfony-php-framework] - [`Source code` (private)](udemy-paid)                                    
-  - [REST API with Symfony5 and PHP8 using Domain Driven Design][u-rest-api-sf5-ddd]  - [`Source code` (private)](udemy-paid)  
-  - [Learn PHP Symfony 4 Hands-On Creating Real World Application][u-sf4-hands-on]  - [`Source code` (private)](udemy-paid)  
-  - [Symfony API Platform with React Full Stack Masterclass][u-sf-api-platform-react-js]   - [`Source code` (private)](udemy-paid)  
+  - [Symfony 5 PHP Framework][u-symfony-php-framework] - [`Source code` (private)][udemy-paid]                                    
+  - [REST API with Symfony5 and PHP8 using Domain Driven Design][u-rest-api-sf5-ddd]  - [`Source code` (private)][udemy-paid]  
+  - [Learn PHP Symfony 4 Hands-On Creating Real World Application][u-sf4-hands-on]  - [`Source code` (private)][udemy-paid]  
+  - [Symfony API Platform with React Full Stack Masterclass][u-sf-api-platform-react-js]   - [`Source code` (private)][udemy-paid]  
 
 
 ## Legacy
@@ -126,13 +126,13 @@
 The code is licensed under the [MIT License](https://github.com/habibun/symfony/blob/master/LICENSE)
 
 
-[//]: # (Links)
-[symfony-casts]: https://github.com/habibun/symfony-casts
+[//]: # (Links)  
+[symfony-casts]: https://github.com/habibun/symfony-casts  
 
-[//]: # (Udemy Paid Courses)
-[udemy-paid]: https://github.com/habibun/udemy-paid
+[//]: # (Udemy Paid Courses)   
+[udemy-paid]: https://github.com/habibun/udemy-paid  
 
-[u-symfony-php-framework]: https://www.udemy.com/course/symfony-php-framework/
-[u-rest-api-sf5-ddd]: https://www.udemy.com/course/rest-api-with-symfony5-and-php8-using-domain-driven-design/
-[u-sf4-hands-on]: https://www.udemy.com/learn-symfony-4-hands-on-creating-a-real-world-application
-[u-sf-api-platform-react-js]: https://www.udemy.com/course/symfony-api-platform-reactjs-full-stack-masterclass/
+[u-symfony-php-framework]: https://www.udemy.com/course/symfony-php-framework/  
+[u-rest-api-sf5-ddd]: https://www.udemy.com/course/rest-api-with-symfony5-and-php8-using-domain-driven-design/  
+[u-sf4-hands-on]: https://www.udemy.com/learn-symfony-4-hands-on-creating-a-real-world-application  
+[u-sf-api-platform-react-js]: https://www.udemy.com/course/symfony-api-platform-reactjs-full-stack-masterclass/  
