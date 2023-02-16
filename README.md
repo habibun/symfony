@@ -112,11 +112,6 @@
   - [PHP Namespaces in Under 5 Minutes][symfony-casts]
   - [Wonderful World of Composer][symfony-casts]
 
-- Udemy Paid Courses
-  - [Symfony 5 PHP Framework][u-symfony-php-framework] - [`Code` (private)][udemy-paid]
-  - [REST API with Symfony5 and PHP8 using Domain Driven Design][u-rest-api-sf5-ddd]  - [`Code` (private)][udemy-paid]
-  - [Learn PHP Symfony 4 Hands-On Creating Real World Application][u-sf4-hands-on]  - [`Code` (private)][udemy-paid]
-  - [Symfony API Platform with React Full Stack Masterclass][u-sf-api-platform-react-js]   - [`Code` (private)][udemy-paid]
 
 ## Legacy
 
