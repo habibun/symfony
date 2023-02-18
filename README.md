@@ -1,12 +1,10 @@
 # Getting Started with Symfony
 
 ## UX
-
 - [Symfony UX](https://github.com/habibun/symfony-ux)
   - [Easy charts with Chart.js](https://github.com/habibun/symfony-ux/tree/jakub-tobiasz)
 
 ## Bundle
-
 - [EasyAdminBundle](https://github.com/habibun/easy-admin-bundle)
 - [VichUploaderBundle](https://github.com/habibun/vich-uploader-bundle)
 - [SentryBundle](https://github.com/habibun/sentry-symfony)
@@ -39,7 +37,7 @@
 - [DoctrineMongoDBBundle](https://github.com/habibun/doctrine-mongodb-odm-bundle)
 
 ## Package
-
+- [netgen/layouts-standard](https://github.com/habibun/symfony-netgen-layouts) - wip
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
 - [facebook/graph-sdk](https://github.com/habibun/facebook-graph-sdk)
 - [symfony/uid](https://github.com/habibun/symfony-uid)
@@ -53,13 +51,11 @@
 - [symfony/translation](https://github.com/habibun/symfony-translation)
 
 ## Community
-
 - [GitHub](https://github.com/symfony/symfony/discussions)
 - [Slack chat](https://symfony.com/slack)
 - [SensioLabs](https://sensiolabs.com/)
 
 ## Reading
-
 - [Symfony: The Fast Track](https://symfony.com/book)
 - [The Symfony Blog](https://symfony.com/blog/)
 - [Symfony 4.2 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
@@ -68,7 +64,6 @@
 - [Matthias Noback - Blog](https://matthiasnoback.nl/)
 
 ## Miscellaneous
-
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 - [User’s Locale](https://github.com/habibun/symfony-user-locale)
 - [Embed a Collection of Forms](https://github.com/habibun/symfony-collection-of-forms)
@@ -96,7 +91,6 @@
 - [Symfony custom authentication using Auth0](https://github.com/habibun/symfony-auth0)
 
 ## Course
-
 - [SymfonyCasts Free Courses][symfony-casts]
   - [Harmonious Development with Symfony 6][symfony-casts]
   - [Charming Development in Symfony 5][symfony-casts]
@@ -114,26 +108,14 @@
 
 
 ## Legacy
-
 - [craft - Test project based in symfony2](https://github.com/habibun/craft)
 
 ## License
-
-The code is licensed under the [MIT License](https://github.com/habibun/symfony/blob/master/LICENSE)
+Distributed under the MIT License. See **[LICENSE][license]** for more information.  
 
 
 [//]: # (Links)
+[license]: https://github.com/habibun/symfony/blob/main/LICENSE
 
 [symfony-casts]: https://github.com/habibun/symfony-casts
 
-[//]: # (Udemy Paid Courses)
-
-[udemy-paid]: https://github.com/habibun/udemy-paid
-
-[u-symfony-php-framework]: https://www.udemy.com/course/symfony-php-framework/
-
-[u-rest-api-sf5-ddd]: https://www.udemy.com/course/rest-api-with-symfony5-and-php8-using-domain-driven-design/
-
-[u-sf4-hands-on]: https://www.udemy.com/learn-symfony-4-hands-on-creating-a-real-world-application
-
-[u-sf-api-platform-react-js]: https://www.udemy.com/course/symfony-api-platform-reactjs-full-stack-masterclass/  
