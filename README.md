@@ -91,20 +91,7 @@
 - [Symfony custom authentication using Auth0](https://github.com/habibun/symfony-auth0)
 
 ## Course
-- [SymfonyCasts Free Courses][symfony-casts]
-  - [Harmonious Development with Symfony 6][symfony-casts]
-  - [Charming Development in Symfony 5][symfony-casts]
-  - [Stellar Development with Symfony 4][symfony-casts]
-  - [Webpack Encore: Frontend like a Pro!][symfony-casts]
-  - [Contributing back to Symfony!][symfony-casts]
-  - [Joyful Development with Symfony 3][symfony-casts]
-  - [FOSUserBundle FTW!][symfony-casts]
-  - [Symfony Best Practices][symfony-casts]
-  - [Symfony Security Voters (free cookies!)][symfony-casts]
-  - [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][symfony-casts]
-  - [Dependency Injection and the art of services and containers][symfony-casts]
-  - [PHP Namespaces in Under 5 Minutes][symfony-casts]
-  - [Wonderful World of Composer][symfony-casts]
+- [SymfonyCasts Free Courses][symfony-casts]  
 
 
 ## Legacy
