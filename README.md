@@ -36,8 +36,7 @@
 - [MonologBundle](https://github.com/habibun/symfony-monolog-bundle)
 - [DoctrineMongoDBBundle](https://github.com/habibun/doctrine-mongodb-odm-bundle)
 
-## Package
-- [netgen/layouts-standard](https://github.com/habibun/symfony-netgen-layouts) - wip
+## Package  
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
 - [facebook/graph-sdk](https://github.com/habibun/facebook-graph-sdk)
 - [symfony/uid](https://github.com/habibun/symfony-uid)
