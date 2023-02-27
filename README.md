@@ -63,6 +63,8 @@
 - [Matthias Noback - Blog](https://matthiasnoback.nl/)
 
 ## Miscellaneous
+- [Symfony Book (The Fast Track)](https://github.com/habibun/symfony-book) - wip  
+- [API Platform](https://github.com/habibun/symfony-api-platform) - wip  
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 - [User’s Locale](https://github.com/habibun/symfony-user-locale)
 - [Embed a Collection of Forms](https://github.com/habibun/symfony-collection-of-forms)
