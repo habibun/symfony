@@ -49,18 +49,6 @@
 - [geoip2/geoip2](https://github.com/habibun/geoip2-geoip2)
 - [symfony/translation](https://github.com/habibun/symfony-translation)
 
-## Community
-- [GitHub](https://github.com/symfony/symfony/discussions)
-- [Slack chat](https://symfony.com/slack)
-- [SensioLabs](https://sensiolabs.com/)
-
-## Reading
-- [Symfony: The Fast Track](https://symfony.com/book)
-- [The Symfony Blog](https://symfony.com/blog/)
-- [Symfony 4.2 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
-- [Think To Code](https://www.thinktocode.com/)
-- [Inanzzz](http://www.inanzzz.com/index.php/posts/symfony)
-- [Matthias Noback - Blog](https://matthiasnoback.nl/)
 
 ## Miscellaneous
 - [Symfony Book (The Fast Track)](https://github.com/habibun/symfony-book) - wip  
@@ -100,6 +88,21 @@
 
 ## License
 Distributed under the MIT License. See **[LICENSE][license]** for more information.  
+
+
+## Reading
+- [Symfony: The Fast Track](https://symfony.com/book)
+- [The Symfony Blog](https://symfony.com/blog/)
+- [Symfony 4.2 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
+- [Think To Code](https://www.thinktocode.com/)
+- [Inanzzz](http://www.inanzzz.com/index.php/posts/symfony)
+- [Matthias Noback - Blog](https://matthiasnoback.nl/)
+
+
+## Community
+- [GitHub](https://github.com/symfony/symfony/discussions)
+- [Slack chat](https://symfony.com/slack)
+- [SensioLabs](https://sensiolabs.com/)
 
 
 [//]: # (Links)
