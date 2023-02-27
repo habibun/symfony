@@ -86,9 +86,6 @@
 ## Legacy
 - [craft - Test project based in symfony2](https://github.com/habibun/craft)
 
-## License
-Distributed under the MIT License. See **[LICENSE][license]** for more information.  
-
 
 ## Reading
 - [Symfony: The Fast Track](https://symfony.com/book)
@@ -103,6 +100,10 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 - [GitHub](https://github.com/symfony/symfony/discussions)
 - [Slack chat](https://symfony.com/slack)
 - [SensioLabs](https://sensiolabs.com/)
+
+
+## License
+Distributed under the MIT License. See **[LICENSE][license]** for more information.  
 
 
 [//]: # (Links)
