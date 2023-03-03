@@ -51,7 +51,7 @@
 
 
 ## Miscellaneous
-- [Symfony Book (The Fast Track)](https://github.com/habibun/symfony-book) - wip  
+- [Symfony Book (The Fast Track)](https://github.com/habibun/symfony-book) - :construction:  
 - [API Platform](https://github.com/habibun/symfony-api-platform) - wip  
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 - [User’s Locale](https://github.com/habibun/symfony-user-locale)
