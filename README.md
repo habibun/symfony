@@ -17,7 +17,7 @@
   - [Using the form_login Authentication Provider](https://github.com/habibun/symfony-security/tree/feature-form-login-authenticator)
   - [Guard authenticator Login Form](https://github.com/habibun/symfony-security/tree/feature-form-login)
   - [Voters to Check User Permissions](https://github.com/habibun/symfony-security/tree/feature-voter)
-- [HWIOAuthBundle](https://github.com/habibun/hwio-auth-bundle) - wip
+- [HWIOAuthBundle](https://github.com/habibun/hwio-auth-bundle)  :construction:  
 - [FOSOAuthServerBundle](https://github.com/habibun/fos-oauth-server-bundle)
 - [RabbitMqBundle](https://github.com/habibun/rabbit-mq-bundle)
 - [A2lixTranslationFormBundle](https://github.com/habibun/a2lix-translation-form-bundle)
@@ -42,7 +42,7 @@
 - [symfony/uid](https://github.com/habibun/symfony-uid)
 - [symfony/cache](https://github.com/habibun/symfony-cache)
 - [google/apiclient](https://github.com/habibun/google-apiclient)
-- [symfony/notifier](https://github.com/habibun/symfony-notifier) - wip
+- [symfony/notifier](https://github.com/habibun/symfony-notifier) :construction:  
 - [knplabs/doctrine-behaviors](https://github.com/habibun/a2lix-translation-form-bundle)
 - [beberlei/doctrineextensions](https://github.com/habibun/beberlei-doctrine-extensions)
 - [dompdf/dompdf](https://github.com/habibun/dompdf-dompdf)
@@ -52,7 +52,7 @@
 
 ## Miscellaneous
 - [Symfony Book (The Fast Track)](https://github.com/habibun/symfony-book)  :construction:  
-- [API Platform](https://github.com/habibun/symfony-api-platform)  🚧 
+- [API Platform](https://github.com/habibun/symfony-api-platform)  :construction: 
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 - [User’s Locale](https://github.com/habibun/symfony-user-locale)
 - [Embed a Collection of Forms](https://github.com/habibun/symfony-collection-of-forms)
