@@ -53,6 +53,7 @@
 
 ## Miscellaneous
 - [MongoDB](https://github.com/habibun/symfony-mongodb)  :construction:
+- [PHPUnit](https://github.com/habibun/symfony-phpunit)  :construction:  
 - [Symfony Book (The Fast Track)](https://github.com/habibun/symfony-book)  :construction:  
 - [API Platform](https://github.com/habibun/symfony-api-platform)  :construction: 
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
