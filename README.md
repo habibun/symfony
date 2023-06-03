@@ -5,14 +5,17 @@
   - [Easy charts with Chart.js](https://github.com/habibun/symfony-ux/tree/jakub-tobiasz)
 
 
+## [Doctrine]((https://github.com/habibun/symfony-doctrine))
+  - [The Value Object and Doctrine](https://github.com/habibun/symfony-doctrine/tree/feature-value-object)
+  - [Inheritance Mapping](https://github.com/habibun/symfony-doctrine/tree/feature-inheritance-mapping)
+  - [Doctrine, Symfony & the Database](https://github.com/habibun/symfony-doctrine/tree/symfony-doctrine)
+  - [Go Pro with Doctrine Queries](https://github.com/habibun/symfony-doctrine/tree/doctrine-queries) :construction:
+
+
 ## Bundle
 - [EasyAdminBundle](https://github.com/habibun/easy-admin-bundle)
 - [VichUploaderBundle](https://github.com/habibun/vich-uploader-bundle)
 - [SentryBundle](https://github.com/habibun/sentry-symfony)
-- [DoctrineBundle](https://github.com/habibun/doctrine-bundle)
-  - [The Value Object and Doctrine](https://github.com/habibun/doctrine-bundle/tree/feature-value-object)
-  - [Inheritance Mapping](https://github.com/habibun/doctrine-bundle/tree/feature-inheritance-mapping)
-  - [Doctrine, Symfony & the Database](https://github.com/habibun/doctrine-bundle/tree/symfony-doctrine)
 - [SecurityBundle](https://github.com/symfony/security-bundle)
   - [Custom Authentication System with Guard](https://github.com/habibun/symfony-security/tree/feature-custom-authentication-system-with-guard)
   - [Using the form_login Authentication Provider](https://github.com/habibun/symfony-security/tree/feature-form-login-authenticator)
