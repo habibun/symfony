@@ -9,7 +9,7 @@
   - [The Value Object and Doctrine](https://github.com/habibun/symfony-doctrine/tree/feature-value-object)
   - [Inheritance Mapping](https://github.com/habibun/symfony-doctrine/tree/feature-inheritance-mapping)
   - [Doctrine, Symfony & the Database](https://github.com/habibun/symfony-doctrine/tree/symfony-doctrine)
-  - [Go Pro with Doctrine Queries](https://github.com/habibun/symfony-doctrine/tree/doctrine-queries) :construction:
+  - [Go Pro with Doctrine Queries](https://github.com/habibun/symfony-doctrine/tree/doctrine-queries)
 
 
 ## Bundle
