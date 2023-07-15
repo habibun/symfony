@@ -71,6 +71,7 @@
 - [Behat](https://github.com/habibun/behat)
 - [Elasticsearch](https://github.com/habibun/elasticsearch)
 - [Login with Github](https://github.com/habibun/login-with-github)
+- [Login with Facebook](https://github.com/habibun/symfony-fb-login)
 - [Using Docker with Symfony](https://github.com/habibun/symfony-docker)
 - [Single page application with symfony 4 and vue js](https://github.com/habibun/symfony-vue)
 - [Layered Architecture with Symfony](https://github.com/habibun/symfony-layered)
