@@ -67,7 +67,7 @@
   - [AWS Elastic Beanstalk](https://github.com/habibun/aws/tree/feature-elastic-beanstalk)
   - [Amazon Simple Email Service](https://github.com/habibun/symfony-notifier)
   - [Amazon S3](https://github.com/habibun/vich-uploader-bundle)
-- [SOLID principles](https://github.com/habibun/solid)
+- [SOLID principles](https://github.com/habibun/symfony-solid)
 - [Behat](https://github.com/habibun/behat)
 - [Elasticsearch](https://github.com/habibun/elasticsearch)
 - [Login with Github](https://github.com/habibun/login-with-github)
