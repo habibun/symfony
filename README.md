@@ -109,10 +109,6 @@
 - [SensioLabs](https://sensiolabs.com/)
 
 
-## Package
-- [Intl support for Twig](https://github.com/twigphp/intl-extra)  
-
-
 ## License
 Distributed under the MIT License. See **[LICENSE][license]** for more information.  
 
