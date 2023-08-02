@@ -42,10 +42,8 @@
 
 ## Package  
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
-- [facebook/graph-sdk](https://github.com/habibun/facebook-graph-sdk)
 - [symfony/uid](https://github.com/habibun/symfony-uid)
 - [symfony/cache](https://github.com/habibun/symfony-cache)
-- [google/apiclient](https://github.com/habibun/google-apiclient)
 - [symfony/notifier](https://github.com/habibun/symfony-notifier) :construction:  
 - [knplabs/doctrine-behaviors](https://github.com/habibun/a2lix-translation-form-bundle)
 - [beberlei/doctrineextensions](https://github.com/habibun/beberlei-doctrine-extensions)
@@ -71,7 +69,8 @@
 - [Behat](https://github.com/habibun/behat)
 - [Elasticsearch](https://github.com/habibun/elasticsearch)
 - [Login with Github](https://github.com/habibun/login-with-github)
-- [Login with Facebook](https://github.com/habibun/symfony-fb-login)
+- [Login with Facebook](https://github.com/habibun/facebook-graph-sdk)
+- [Login with Google](https://github.com/habibun/google-apiclient)
 - [Using Docker with Symfony](https://github.com/habibun/symfony-docker)
 - [Single page application with symfony 4 and vue js](https://github.com/habibun/symfony-vue)
 - [Layered Architecture with Symfony](https://github.com/habibun/symfony-layered)
