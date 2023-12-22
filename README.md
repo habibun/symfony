@@ -9,7 +9,7 @@
   - [The Value Object and Doctrine](https://github.com/habibun/symfony-doctrine/tree/feature-value-object)
   - [Inheritance Mapping](https://github.com/habibun/symfony-doctrine/tree/feature-inheritance-mapping)
   - [Doctrine, Symfony & the Database](https://github.com/habibun/symfony-doctrine/tree/symfony-doctrine)
-  - [Go Pro with Doctrine Queries](https://github.com/habibun/symfony-doctrine/tree/doctrine-queries) :construction:
+  - [Go Pro with Doctrine Queries](https://github.com/habibun/symfony-doctrine/tree/doctrine-queries)
 
 
 ## Bundle
@@ -42,10 +42,8 @@
 
 ## Package  
 - [ramsey/uuid-doctrine](https://github.com/habibun/ramsey-uuid-doctrine)
-- [facebook/graph-sdk](https://github.com/habibun/facebook-graph-sdk)
 - [symfony/uid](https://github.com/habibun/symfony-uid)
 - [symfony/cache](https://github.com/habibun/symfony-cache)
-- [google/apiclient](https://github.com/habibun/google-apiclient)
 - [symfony/notifier](https://github.com/habibun/symfony-notifier) :construction:  
 - [knplabs/doctrine-behaviors](https://github.com/habibun/a2lix-translation-form-bundle)
 - [beberlei/doctrineextensions](https://github.com/habibun/beberlei-doctrine-extensions)
@@ -67,10 +65,12 @@
   - [AWS Elastic Beanstalk](https://github.com/habibun/aws/tree/feature-elastic-beanstalk)
   - [Amazon Simple Email Service](https://github.com/habibun/symfony-notifier)
   - [Amazon S3](https://github.com/habibun/vich-uploader-bundle)
-- [SOLID principles](https://github.com/habibun/solid)
+- [SOLID principles](https://github.com/habibun/symfony-solid)
 - [Behat](https://github.com/habibun/behat)
 - [Elasticsearch](https://github.com/habibun/elasticsearch)
 - [Login with Github](https://github.com/habibun/login-with-github)
+- [Login with Facebook](https://github.com/habibun/login-with-facebook)
+- [Login with Google](https://github.com/habibun/login-with-google)
 - [Using Docker with Symfony](https://github.com/habibun/symfony-docker)
 - [Single page application with symfony 4 and vue js](https://github.com/habibun/symfony-vue)
 - [Layered Architecture with Symfony](https://github.com/habibun/symfony-layered)
@@ -135,10 +135,6 @@
 - [GitHub](https://github.com/symfony/symfony/discussions)
 - [Slack chat](https://symfony.com/slack)
 - [SensioLabs](https://sensiolabs.com/)
-
-
-## Package
-- [Intl support for Twig](https://github.com/twigphp/intl-extra)  
 
 
 ## License
