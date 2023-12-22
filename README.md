@@ -151,7 +151,7 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 
 [//]: # (Symfony 6)
 [sc_last_stack]: https://github.com/habibun/sc-last-stack
-[sc_symfony6]: https://github.com/habibun/symfony-casts/tree/symfony6
+[sc_symfony6]: https://github.com/habibun/sc-symfony6
 
 [//]: # (Symfony 5)
 [sc_symfony5]: https://github.com/habibun/sc-symfony5
@@ -172,8 +172,8 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 
 
 [//]: # (Others)
-[sc_phpstorm]: https://github.com/habibun/symfony-casts/tree/phpstorm
-[sc_dependency_injection]: https://github.com/habibun/symfony-casts/tree/dependency-injection
-[sc_php_namespaces]: https://github.com/habibun/symfony-casts/tree/php-namespaces
-[sc_composer]: https://github.com/habibun/symfony-casts/tree/composer  
+[sc_phpstorm]: https://github.com/habibun/sc-phpstorm
+[sc_dependency_injection]: https://github.com/habibun/sc-dependency-injection
+[sc_php_namespaces]: https://github.com/habibun/sc-php-namespaces
+[sc_composer]: https://github.com/habibun/sc-composer  
 
