@@ -87,7 +87,7 @@
 
 
 ## Course
-###  [SymfonyCasts](https://github.com/habibun/symfony-casts)
+###  SymfonyCasts Free Courses
 | Course                                                                                 | Symfony Version | PHP Version |
 |----------------------------------------------------------------------------------------|-----------------|-------------|
 | **Symfony 6**                                                                          |                 |             |
