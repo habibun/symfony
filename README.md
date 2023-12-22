@@ -87,7 +87,35 @@
 
 
 ## Course
-- [SymfonyCasts Free Courses][symfony-casts]  
+###  [SymfonyCasts](https://github.com/habibun/symfony-casts)
+| Course                                                                                 | Symfony Version | PHP Version |
+|----------------------------------------------------------------------------------------|-----------------|-------------|
+| **Symfony 6**                                                                          |                 |             |
+| [30 Days with LAST Stack][sc_last_stack]  :construction:                               | ``              | ``          |
+| [Harmonious Development with Symfony 6][sc_symfony6]                                   | `^6.0`          | `^8.0`      |
+|                                                                                        |                 |             |
+| **Symfony 5**                                                                          |                 |             |
+| [Charming Development in Symfony 5][sc_symfony5]                                       | `^5.0`          | `^8.0`      |
+|                                                                                        |                 |             |
+| **Symfony 4**                                                                          |                 |             |
+| [Stellar Development with Symfony 4][sc_symfony4]                                      | `^4.0`          | `^7.1`      |
+| [Webpack Encore: Frontend like a Pro!][sc_webpack_encore]                              | `^4.2`          | `^7.1`      |
+| [Contributing back to Symfony!][sc_contributing]                                       | `^4.0`          | `^7.1`      |
+|                                                                                        |                 |             |
+| **Symfony 3**                                                                          |                 |             |
+| [Joyful Development with Symfony 3][sc_symfony3]                                       | `^3.1`          | `^7.1`      |
+| [FOSUserBundle FTW!][sc_fosuserbundle]                                                 | `^3.3`          | `^7.1`      |
+|                                                                                        |                 |             |
+| **Symfony 2**                                                                          |                 |             |
+| [Symfony Best Practices][sc_symfony_best_practices]                                    | `^2.5`          | `^5.6`      |
+| [Symfony Security Voters (free cookies!)][sc_symfony_voters]                           | `^2.5`          | `^5.6`      |
+| [Lean and Mean Dev with PhpStorm &#40;for Symfony&#41;][sc_phpstorm]                   | `^2.8`          | `^7.2`      |
+|                                                                                        |                 |             |
+| **Others**                                                                             |                 |             |
+| [Dependency Injection and the art of services and containers][sc_dependency_injection] | `~`             | `~`         |
+| [PHP Namespaces in Under 5 Minutes][sc_php_namespaces]                                 | `~`             | `~`         |
+| [Wonderful World of Composer][sc_composer]                                             | `~`             | `~`         |
+
 
 
 ## Legacy
@@ -120,5 +148,36 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 [//]: # (Links)
 [license]: https://github.com/habibun/symfony/blob/main/LICENSE
 
-[symfony-casts]: https://github.com/habibun/symfony-casts
+
+
+[//]: # (# Course Link)
+[sc]: https://symfonycasts.com/
+
+[//]: # (Symfony 6)
+[sc_last_stack]: https://github.com/habibun/sc-last-stack
+[sc_symfony6]: https://github.com/habibun/symfony-casts/tree/symfony6
+
+[//]: # (Symfony 5)
+[sc_symfony5]: https://github.com/habibun/symfony-casts/tree/symfony5
+
+[//]: # (Symfony 4)
+[sc_symfony4]: https://github.com/habibun/symfony-casts/tree/symfony4
+[sc_webpack_encore]: https://github.com/habibun/symfony-casts/tree/webpack-encore
+[sc_contributing]: https://github.com/habibun/symfony-casts/tree/contributing
+
+[//]: # (Symfony 3)
+[sc_symfony3]: https://github.com/habibun/symfony-casts/tree/symfony3
+[sc_fosuserbundle]: https://github.com/habibun/symfony-casts/tree/fosuserbundle
+
+
+[//]: # (Symfony 2)
+[sc_symfony_best_practices]: https://github.com/habibun/symfony-casts/tree/symfony-best-practices
+[sc_symfony_voters]: https://github.com/habibun/symfony-casts/tree/symfony-voters
+
+
+[//]: # (Others)
+[sc_phpstorm]: https://github.com/habibun/symfony-casts/tree/phpstorm
+[sc_dependency_injection]: https://github.com/habibun/symfony-casts/tree/dependency-injection
+[sc_php_namespaces]: https://github.com/habibun/symfony-casts/tree/php-namespaces
+[sc_composer]: https://github.com/habibun/symfony-casts/tree/composer  
 
