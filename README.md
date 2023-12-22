@@ -154,21 +154,21 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 [sc_symfony6]: https://github.com/habibun/symfony-casts/tree/symfony6
 
 [//]: # (Symfony 5)
-[sc_symfony5]: https://github.com/habibun/symfony-casts/tree/symfony5
+[sc_symfony5]: https://github.com/habibun/sc-symfony5
 
 [//]: # (Symfony 4)
-[sc_symfony4]: https://github.com/habibun/symfony-casts/tree/symfony4
-[sc_webpack_encore]: https://github.com/habibun/symfony-casts/tree/webpack-encore
-[sc_contributing]: https://github.com/habibun/symfony-casts/tree/contributing
+[sc_symfony4]: https://github.com/habibun/sc-symfony4
+[sc_webpack_encore]: https://github.com/habibun/sc-webpack-encore
+[sc_contributing]: https://github.com/habibun/sc-contributing
 
 [//]: # (Symfony 3)
-[sc_symfony3]: https://github.com/habibun/symfony-casts/tree/symfony3
-[sc_fosuserbundle]: https://github.com/habibun/symfony-casts/tree/fosuserbundle
+[sc_symfony3]: https://github.com/habibun/sc-symfony3
+[sc_fosuserbundle]: https://github.com/habibun/sc-fosuserbundle
 
 
 [//]: # (Symfony 2)
-[sc_symfony_best_practices]: https://github.com/habibun/symfony-casts/tree/symfony-best-practices
-[sc_symfony_voters]: https://github.com/habibun/symfony-casts/tree/symfony-voters
+[sc_symfony_best_practices]: https://github.com/habibun/sc-symfony-best-practices
+[sc_symfony_voters]: https://github.com/habibun/sc-symfony-voters
 
 
 [//]: # (Others)
