@@ -90,8 +90,11 @@
 ###  SymfonyCasts Free Courses
 | Course                                                                                 | Symfony Version | PHP Version |
 |----------------------------------------------------------------------------------------|-----------------|-------------|
+| **Symfony 7**                                                                          |                 |             |
+| [30 Days with LAST Stack][sc_symfony7]  :construction:                                 | ``              | ``          |
+|                                                                                        |                 |             |
 | **Symfony 6**                                                                          |                 |             |
-| [30 Days with LAST Stack][sc_last_stack]  :construction:                               | ``              | ``          |
+| [30 Days with LAST Stack][sc_last_stack]                                               | `^6.4`          | `^8.2`      |
 | [Harmonious Development with Symfony 6][sc_symfony6]                                   | `^6.0`          | `^8.0`      |
 |                                                                                        |                 |             |
 | **Symfony 5**                                                                          |                 |             |
@@ -148,6 +151,9 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 
 [//]: # (# Course Link)
 [sc]: https://symfonycasts.com/
+
+[//]: # (Symfony 7)
+[sc_symfony7]: https://github.com/habibun/sc-symfony7
 
 [//]: # (Symfony 6)
 [sc_last_stack]: https://github.com/habibun/sc-last-stack
