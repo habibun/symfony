@@ -91,7 +91,7 @@
 | Course                                                                                 | Symfony Version | PHP Version |
 |----------------------------------------------------------------------------------------|-----------------|-------------|
 | **Symfony 7**                                                                          |                 |             |
-| [Cosmic Coding with Symfony 7][sc_symfony7]  :construction:                            | ``              | ``          |
+| [Cosmic Coding with Symfony 7][sc_symfony7]                                            | `^7.0`          | `^8.2`      |
 |                                                                                        |                 |             |
 | **Symfony 6**                                                                          |                 |             |
 | [30 Days with LAST Stack][sc_last_stack]                                               | `^6.4`          | `^8.2`      |
