@@ -75,7 +75,7 @@
 - [Single page application with symfony 4 and vue js](https://github.com/habibun/symfony-vue)
 - [Layered Architecture with Symfony](https://github.com/habibun/symfony-layered)
 - [CQRS with Symfony](https://github.com/habibun/cqrs)
-- [Hexagonal Architecture with PHP using Symfony](https://github.com/habibun/hexagonal-architecture)
+- [Hexagonal Architecture with PHP using Symfony](https://github.com/habibun/symfony-hexagonal)
 - [Domain-Driven Design with Symfony](https://github.com/habibun/symfony-ddd)
 - [Migrate Symfony Project to Kubernetes!](https://github.com/habibun/kubernetes)
 - [Stripe](https://github.com/habibun/symfony-stripe)
