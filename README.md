@@ -94,7 +94,6 @@
 | [Cosmic Coding with Symfony 7][sc_symfony7]                                            | `^7.0`          | `^8.2`      |
 |                                                                                        |                 |             |
 | **Symfony 6**                                                                          |                 |             |
-| [30 Days with LAST Stack][sc_last_stack]                                               | `^6.4`          | `^8.2`      |
 | [Harmonious Development with Symfony 6][sc_symfony6]                                   | `^6.0`          | `^8.0`      |
 |                                                                                        |                 |             |
 | **Symfony 5**                                                                          |                 |             |
