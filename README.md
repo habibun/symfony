@@ -53,10 +53,10 @@
 
 
 ## Miscellaneous
-- [MongoDB](https://github.com/habibun/symfony-mongodb)  :construction:
-- [PHPUnit](https://github.com/habibun/symfony-phpunit)  :construction:  
-- [Symfony Book (The Fast Track)](https://github.com/habibun/symfony-book)  :construction:  
-- [API Platform](https://github.com/habibun/symfony-api-platform)  :construction: 
+- [MongoDB](https://github.com/habibun/symfony-mongodb)  
+- [PHPUnit](https://github.com/habibun/symfony-phpunit)   
+- [Symfony Book (The Fast Track)](https://github.com/habibun/symfony-book)  
+- [API Platform](https://github.com/habibun/symfony-api-platform)  
 - [Deploying Symfony Apps on Heroku](https://github.com/habibun/symfony-heroku)
 - [User’s Locale](https://github.com/habibun/symfony-user-locale)
 - [Embed a Collection of Forms](https://github.com/habibun/symfony-collection-of-forms)
